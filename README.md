@@ -19,8 +19,12 @@
 |   13    | Projektarbejde                                              |
 |   14    | Projektarbejde                                              |
 
+## Om valgfaget
+* [Læs mere om vagfaget her](lessons/about_this_elective.md)
+
 ## Eksamen
-* Eksamen i dette valgfag er beskrevet [her](lessons/exam.md)
+* [Eksamen i dette valgfag er beskrevet her](lessons/exam.md)
+
 
 
 
