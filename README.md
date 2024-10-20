@@ -1,11 +1,11 @@
 # Introduktion til Python forår 2025    
 
-## Lesson Plan
+## Lektionsplan
 
-| Session |                           Topic                            |
+| Lektion |                           Emne                            |
 | :-----: | :-------------------------------------------------------- |
 |    1    |               Introduktion til python                       |
-|    2    |    Python - Datastrukture                                  | 
+|     2    |    Python - Datastrukture                                  | 
 |    3    |                 Python modules                          |
 |    4    |        Mandatory 1: Files, Modules & LLM                   |
 |    5    |              Utilities and Modules                         |
