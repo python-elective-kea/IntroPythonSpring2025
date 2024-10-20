@@ -1,4 +1,4 @@
-# Eksamen i Python - Forår 2025
+# Eksamen i Introduktion til Python - Forår 2025
 
 ## Eksamensformat
 Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
