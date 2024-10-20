@@ -7,7 +7,7 @@
 |    1    | [Introduktion til python](lessons/ses1.md)                |
 |    2    | Python - datastrukture                                    |
 |    3    | Python - modules                                          |
-|    4    | Mandatory 1: Files, Modules & LLM                         |
+|    4    | Obligatorisk opgave 1:                          |
 |    5    | Utilities and Modules                                     |
 |    6    | Functions & Decorators                                    |
 |    8    | Pythonic OOP                                              |
