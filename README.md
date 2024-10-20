@@ -3,7 +3,7 @@
 ## Lesson Plan
 
 | Session |                           Topic                            |
-| :-----: | :--------------------------------------------------------: |
+| :-----: | --------------------------------------------------------: |
 |    1    |               Introduktion til python                       |
 |    2    |    Python - Datastrukture                                  | 
 |    3    |                 Python modules                          |
