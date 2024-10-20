@@ -19,7 +19,7 @@
 |   13    | Projektarbejde                                              |
 |   14    | Projektarbejde                                              |
 
-
+aaaasss
 
 ## Eksamen
 * Eksamen i dette valgfag er beskrevet [her](lessons/exam.md)
