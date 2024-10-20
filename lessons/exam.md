@@ -12,9 +12,9 @@ Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
 - Du har 2 uger til at forberede dit projekt før den mundtlige eksamen.
 
 ## Mundtlig eksamen
-- Varighed: 20 minutter (inklusiv votering)
+- Varighed: 30 minutter (inklusiv votering)
 - 10 minutter: Præsentation af dit projekt
-- 5 minutter: Spørgsmål og diskussion
+- 10 minutter: Spørgsmål og diskussion
 - 5 minutter: Votering og karaktergivning
 
 ## Bedømmelseskriterier
