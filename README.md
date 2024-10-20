@@ -20,5 +20,8 @@
 |   14    | Exam preperation                                          |
 
 
+## Eksamen
+* Eksamen i dette valgfag er beskrevet [her](lessons/exam.md)
+
 
 
