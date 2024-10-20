@@ -4,9 +4,9 @@
 
 | Lektion |                           Emne                            |
 |:-----:|:----------------------------------------------------------|
-|    1    | Introduktion til python                                   |
-|    2    | Python - Datastrukture                                    |
-|    3    | Python modules                                            |
+|    1    | [Introduktion til python](lessons/ses1.md)                |
+|    2    | Python - datastrukture                                    |
+|    3    | Python - modules                                          |
 |    4    | Mandatory 1: Files, Modules & LLM                         |
 |    5    | Utilities and Modules                                     |
 |    6    | Functions & Decorators                                    |
