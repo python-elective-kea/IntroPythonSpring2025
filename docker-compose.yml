@@ -4,9 +4,9 @@ services:
   web:
     build: .
     ports:
-      - "8080:80"
+      - "8080:3000"
     volumes:
-      - .:/usr/share/nginx/html:ro
+      - .:/app:ro
 
 volumes:
   repo-content:

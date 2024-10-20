@@ -1,0 +1,10 @@
+{
+  "name": "markdown-viewer",
+  "version": "1.0.0",
+  "description": "Simple Markdown viewer",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "markdown-serve": "^0.8.0"
+  }
+}
