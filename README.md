@@ -5,7 +5,7 @@
 | Lektion |                           Emne                            |
 |:-----:|:----------------------------------------------------------|
 |    1    | [Introduktion til python](lessons/ses1.md)                |
-|    2    | Python - datastrukture                                    |
+|    2    | [Python - datastrukture](lessons/ses2.md)                 |
 |    3    | [Python - modules, virtual environmnets, requirements.txt](lessons/ses3.md)|
 |    4    | Obligatorisk opgave 1:                          |
 |    5    | Utilities and Modules                                     |
