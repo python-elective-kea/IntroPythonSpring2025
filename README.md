@@ -8,16 +8,19 @@
 |    2    | [Python - datastrukture](lessons/ses2.md)                 |
 |    3    | [Python - modules, virtual environmnets, requirements.txt](lessons/ses3.md)|
 |    4    | Obligatorisk opgave 1:                          |
-|    5    | Utilities and Modules                                     |
-|    6    | Functions & Decorators                                    |
-|    8    | Pythonic OOP                                              |
-|    9    | The python datamodel                                      |
-|   10    | Properties                                                |
-|   11    | Data analysis & visualization                             |
-|   11    | Python web devlopment                                     |
-|   12    | Pbliggatorisk opgave 2:                                     |
-|   13    | Projektarbejde                                              |
-|   14    | Projektarbejde                                              |
+|    5    | Introduktion til Large Language Models (LLM) i Python     |
+|    6    | Grundlæggende NLP-teknikker og Tekstforbehandling         |
+|    7    | Arbejde med Pre-trained LLM'er og Fine-tuning             |
+|    8    | Retrieval-Augmented Generation (RAG) Teknikker            |
+|    9    | Implementering af RAG-systemer med Python                 |
+|   10    | Evaluering og Optimering af LLM- og RAG-modeller          |
+|   11    | Avancerede LLM-applikationer og Use Cases                 |
+|   12    | LLM-baserede Chatbots og Dialogsystemer                   |
+|   13    | Deployment af LLM- og RAG-modeller med FastAPI            |
+|   14    | Skalering af LLM-applikationer med Docker og Cloud        |
+|   15    | Obligatorisk opgave 2:                                    |
+|   16    | Projektarbejde                                            |
+|   17    | Projektarbejde                                            |
 
 ## Om valgfaget
 * [Læs mere om vagfaget her](lessons/about_this_elective.md)
