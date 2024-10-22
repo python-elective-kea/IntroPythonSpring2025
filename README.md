@@ -11,10 +11,10 @@
 |    5    | 24/02/2025 | Introduktion til Large Language Models (LLM) i Python     |
 |    6    | 02/03/2025 | Prompt Engineering for LLMs                               |
 |    7    | 09/03/2025 | Retrieval-Augmented Generation (RAG) Teknikker           |
-|    8    | 16/03/2025 |  |
+|    8    | 16/03/2025 | Retrieval-Augmented Generation (RAG) Teknikker           |
 |    9    | 23/03/2025 | Dataanalyse med numpy, pandas og matplotlib San Francisco Crime Analasis|
-|   10    | 30/03/2025 | |
-|   11    | 06/04/2025 | |
+|   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib |
+|   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib |
 |   12    | 13/04/2025 | Obligatorisk opgave 2:                                    |
 |   13    | 20/04/2025 | Projektarbejde                                            |
 |   14    | 27/04/2025 | Projektarbejde                                            |
