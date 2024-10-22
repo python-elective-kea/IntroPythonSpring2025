@@ -12,7 +12,7 @@
 |    6    | 02/03/2025 | Prompt Engineering for LLMs                               |
 |    7    | 09/03/2025 | Retrieval-Augmented Generation (RAG) Teknikker           |
 |    8    | 16/03/2025 | Retrieval-Augmented Generation (RAG) Teknikker           |
-|    9    | 23/03/2025 | Dataanalyse med numpy, pandas og matplotlib San Francisco Crime Analysis|
+|    9    | 23/03/2025 | Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis|
 |   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib |
 |   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib |
 |   12    | 13/04/2025 | Obligatorisk opgave 2: Videopræsentaiton af eksamensprojektide|
