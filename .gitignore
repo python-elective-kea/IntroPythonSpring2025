@@ -167,3 +167,131 @@ cython_debug/
 
 # Windows
 Thumbs.db
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional: Uncomment if using TypeScript
+# *.tsbuildinfo
+
+# Optional: Uncomment if using Jest for testing
+# coverage/
+
+# Optional: Uncomment if using Next.js
+# .next/
+# out/
+
+# Optional: Uncomment if using Create React App
+# /build
+
+# Optional: Uncomment if using Yarn
+# yarn.lock
+
+# Optional: Uncomment if using npm
+# package-lock.json
+
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore all HTML files in lessons directory except presentation.slides.html
+lessons/*.html
+!lessons/presentation.slides.html
+
+# Markdown files (uncomment if you want to ignore them)
+# *.md
+
+# Specific files (uncomment if you want to ignore them)
+# README.md
