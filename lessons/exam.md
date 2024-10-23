@@ -5,8 +5,10 @@ Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
 
 ## Projektbeskrivelse
 - Projektet skal demonstrere de færdigheder og den viden, du har opnået gennem kurset.
-- Du skal vælge et problem eller en opgave, som du vil løse ved hjælp af Python, og projektet skal demonstrere integration af LLM i egen applikation.
-- Projektet skal demonstrere opfyldelsen af så mange læringsmål som muligt af de læringsmål der er tilknyttet valgfaget. 
+- Du skal vælge et problem eller en opgave, som du vil løse ved hjælp af Python, og projektet skal enten demonstrere 
+    * integration af LLM i egen applikation.
+    * Dataanalyse af et selvalgt dataset.
+    * Sprogspecifikke elementer indenfor python. 
 
 ## Tidsramme
 - De sidste 2 uger af dette semeter skal du bruge på dit projekt.
@@ -16,6 +18,7 @@ Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
 - 10 minutter: Præsentation af dit projekt
 - 10 minutter: Spørgsmål og diskussion
 - 5 minutter: Votering og karaktergivning
+- 5 minutter: ud og ind af lokalet
 
 ## Bedømmelseskriterier
 Du vil blive bedømt på:
@@ -29,11 +32,4 @@ Du vil blive bedømt på:
 - Repository skal indeholde en readmefil med en beskrivelse af dit projekt. 
 
 ## Karaktergivning
-Eksamen bedømmes efter 7-trinsskalaen.
-
-## Vigtige datoer
-- Projektstart: [Indsæt dato]
-- Afleveringsfrist: [Indsæt dato]
-- Mundtlig eksamen: [Indsæt dato]
-
-For yderligere spørgsmål, kontakt venligst kursusansvarlig.
+Eksamen bedømmes efter 7-trinsskalaen, og er en kombination af en bedømmelse af den afleverede opgave (projekt) og din evne til at forklare den og forholde dig til projektet ved den mundtlige eksamen. 
