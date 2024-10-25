@@ -31,3 +31,9 @@ Du vil efter dette valgfag er gennemført kunne:
 Du vil efter dette valgfag er gennemført:
 - Være i stand til selvstændigt at sætte dig ind i nye emner og foretage litteratursøgninger og finde løsninger på opståede problemer.
 - Være i stand til at perspektivere og relatere til hvad du har lært tidligere på studiet.
+
+## Software brugt i dette kursus
+I kurset bruger vi følgende software.
+* [Python](https://www.python.org/downloads/)
+* [VS Code](https://code.visualstudio.com/download) 
+* [Docker og Docker Desktop](https://www.docker.com/products/docker-desktop/)
