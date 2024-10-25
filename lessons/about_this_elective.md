@@ -37,3 +37,5 @@ I kurset bruger vi følgende software.
 * [Python](https://www.python.org/downloads/)
 * [VS Code](https://code.visualstudio.com/download) 
 * [Docker og Docker Desktop](https://www.docker.com/products/docker-desktop/)
+* Git & Github
+* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt)
