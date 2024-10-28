@@ -7,7 +7,8 @@ Lektioner i dag er fokuseret omkring nogle videoer i skal se, nogle tekster i sk
 * 
 
 ## Forberedelse
-* [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00) (de sidste 15 minutter handler om security. Det er interessant, men i behøver ikke nødvendigvis at se det hvis ikke har lyst)
+* [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00) 
+(de sidste 15 minutter handler om security. Det er interessant, men i behøver ikke nødvendigvis at se det hvis ikke har lyst)
 
 ## Dagen i dag
 
