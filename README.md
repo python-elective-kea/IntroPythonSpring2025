@@ -24,22 +24,3 @@
 
 ## Eksamen
 * [Eksamen i dette valgfag er beskrevet her](lessons/exam.md)
-
-## Review Exercises
-
-## Chapter 6: Functions and Loops
-
-### Basic Function Exercises
-1. Write a function called `cube()` that takes one number parameter and returns the value of that number raised to the third power. Test the function by calling your `cube()` function on a few different numbers and displaying the results.
-
-2. Write a function called `greet()` that takes one string parameter called name and displays the text "Hello <name>!", where <name> is replaced by the value of the name parameter.
-
-### Loop Exercises
-1. Write a `for` loop that prints out the integers 2 through 10, each on a new line, using `range()`.
-
-2. Write a `while` loop that prints out the integers 2 through 10. (Hint: You'll need to create a new integer first.)
-
-3. Write a function called `doubles()` that takes a number as its input and doubles it. Then use `doubles()` in a loop to double the number 2 three times, displaying each result on a separate line. Sample output:
-
-
-
