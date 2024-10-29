@@ -41,9 +41,7 @@
 
 3. Write a function called `doubles()` that takes a number as its input and doubles it. Then use `doubles()` in a loop to double the number 2 three times, displaying each result on a separate line. Sample output:
 
-
-
-
+klæækælk
 
 
 
