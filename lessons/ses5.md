@@ -12,7 +12,11 @@ Fokus er på videoer I skal se, nogle tekster I skal læse, og nogle opgaver I s
 (de sidste 15 minutter handler om security. Det er interessant, men I behøver ikke nødvendigvis at se det hvis I ikke har lyst)
 
 ## Dagen i dag
-Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra start til slut. Materialet ligger på Fronter. Om I har bestået den obligatoriske opgave nummer 2, vil være afhængigt af om I har åbnet dokumenterne eller ikke, klikket på linkene og afleveret det der skal afleveres (jeg kan se om I har åbnet dokumenterne i Fronters statistik). 
+Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra start til slut. Materialet ligger på Fronter. Om I har bestået den obligatoriske opgave nummer 2, vil være afhængigt af om I har åbnet dokumenterne eller ikke, klikket på linkene og afleveret det der skal afleveres (jeg kan se om I har åbnet dokumenterne i Fronters statistik).
+
+I skal aflevere et screen shot af resultatet fra den quiz i har lavet:
+
+![](../assests/Screenshot%202024-10-30%20at%2007.13.29.png)
 
 ## Materiale
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
