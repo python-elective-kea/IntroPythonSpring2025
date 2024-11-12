@@ -3,3 +3,5 @@
 
 **Ideer**
 * [i created malware with Python (it's SCARY easy!!)](https://www.youtube.com/watch?v=UtMMjXOlRQc)
+
+* [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
