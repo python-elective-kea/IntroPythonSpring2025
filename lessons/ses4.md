@@ -7,3 +7,4 @@
 * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 * [Requests: HTTP for Humans™](https://requests.readthedocs.io/en/latest/)
+* [Python Requests Module](https://www.w3schools.com/python/module_requests.asp)
