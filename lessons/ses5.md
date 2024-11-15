@@ -6,6 +6,7 @@ Formålet med dagens emner er at give dig et overblik over hvad koncepterne RAG,
 ## Læringsmål
 * Have en overordnet forståelse for hvad en LLM kan bruges til (ud over chatbot scenariet)
 * Forstå og kunne forklare konceptetet RAG og Agentic RAG.
+* Forstå hvad embeddings er og hvordan der bruges af LLM´s 
 
 ## Forberedelse
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
@@ -30,3 +31,4 @@ I skal aflevere et screen shot af resultatet fra den quiz i har lavet:
 * [What is LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)
 
 ### Øvelser
+#### Øv 1: Text embeddings
