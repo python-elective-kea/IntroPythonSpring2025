@@ -30,5 +30,11 @@ I skal aflevere et screen shot af resultatet fra den quiz i har lavet:
 * [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94)
 * [What is LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)
 
+**ChromaDB** (lav egen video)    
+* [How to run a private Chroma Vector Database locally in 5 mins!](https://www.youtube.com/watch?v=61kaK-e3Owc&t=325s)
+* [Setting Up Your First ChromaDB Server](https://medium.com/@kenzic/setting-up-your-first-chromadb-server-f5f566273ea9)
+* [Usage Guide](https://docs.trychroma.com/guides)
 ### Øvelser
 #### Øv 1: Text embeddings
+Se videoen [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94) **(TODO: LAV egen video)**    
+Og lav en python fil som 
