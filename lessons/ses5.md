@@ -6,7 +6,8 @@ Formålet med dagens emner er at give dig et overblik over hvad koncepterne RAG,
 ## Læringsmål
 * Have en overordnet forståelse for hvad en LLM kan bruges til (ud over chatbot scenariet)
 * Forstå og kunne forklare konceptetet RAG og Agentic RAG.
-* Forstå hvad embeddings er og hvordan der bruges af LLM´s 
+* Forstå hvad embeddings er og hvordan de bruges af LLM´s 
+* Kunne bruge text, audio, image, video embeddings models
 
 ## Forberedelse
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
@@ -34,6 +35,9 @@ I skal aflevere et screen shot af resultatet fra den quiz i har lavet:
 * [How to run a private Chroma Vector Database locally in 5 mins!](https://www.youtube.com/watch?v=61kaK-e3Owc&t=325s)
 * [Setting Up Your First ChromaDB Server](https://medium.com/@kenzic/setting-up-your-first-chromadb-server-f5f566273ea9)
 * [Usage Guide](https://docs.trychroma.com/guides)
+
+**Teoretisk bagrund**
+* [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
 ### Øvelser
 #### Øv 1: Text embeddings
 Se videoen [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94) **(TODO: LAV egen video)**    
