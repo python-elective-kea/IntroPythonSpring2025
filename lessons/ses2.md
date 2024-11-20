@@ -2,19 +2,25 @@
 
 I dag skal vi arbejde med pythons datastrukturer. Python har som udgangspunkt kun fire indbyggede datastrukture. Det er Lister, Tuples, Sets og Dictionaries.     
 Efter i dag vil i være i stand til at oprette  Listes og Tupler, tilgå deres elementer vha. deres index, bruge pythons slicing værktøj på lister og tupler, bruge arethmetikske operatore på lister og tupler, bruge pythons indbyggede functioner på lister og tupler, arbejde med metoderne tilknyttet list og tuple objekterne, og i vil have en grundlæggende forståelse for forskellen i brugen af disse 2.     
-I vil kunne bruge Sets til at finde unikke verdier i en collection, og i vil arbejde med Dictionaries og forstå dens key : Value struktur.
+I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil arbejde med Dictionaries og forstå dens key : Value struktur.
 
 ## Læringsmål
 ---        
 - Arbejde med lister, tuples, dicts og sets
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
-- Kende de vigtigste forskelle mellem lister, tuples, sets og dictionaries
-- Kunne arbejde med sortering af datastrukture
+- Kende til de vigtigste forskelle mellem lister, tuples, sets og dictionaries
+- 
 
 ## Forberedelse
 ---
-Før vi mødes i klassen skal du have:
+Før vi mødes i klassen skal du have set følgende videoer og løst følgende opgaver:
+
+* [Python Lists || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=ohCDWZgNIU0)
+* Copy/paste dette ind i Chat Gpt:
+   ``` I would like to have some exercises in python covering lists.     
+   You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10.    
+   Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me.```
 
 * Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
 * Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)

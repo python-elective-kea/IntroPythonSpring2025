@@ -109,6 +109,12 @@ _(disse øvelser skal som udgangspunkt laves uden brug af LLM´er)_
   - [Python If...Else](https://www.w3schools.com/python/python_conditions.asp)
   - [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 
+
+<!-- 
+* [If, Then, Else in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=f4KOjWS_KZs&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=11)   
+
+-->
+
 #### Øvelser
 
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/) [(løsninger på øvelserne)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python1/exercises/solutions)
