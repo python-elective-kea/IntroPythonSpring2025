@@ -33,18 +33,17 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 > PROMPT: "I would like to have some exercises in python covering Dictionaries. Each exercise should include one of the following topics: Creating a dictionary, adding elements, access elements, using the in operator, try/except errors, get(), keys(), values(), items(), help() and dir(). You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
 
 
-
+<!--
 * Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
 * Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)
 * Skimmed denne artikkel: [Dictionaries in Python](https://realpython.com/python-dicts/) (15 min)
-<!--* Skimmed denne artikkel: [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/) (15 min) -->
 
 For at checke om du har den rigtige forståelse skal du lave disse quizes:
 
 * [Python Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/) (15 min) 
 * [Python Sets Quiz](https://realpython.com/quizzes/python-sets/) (15 min)
 * [Python Dictionaries Quiz](https://realpython.com/quizzes/python-dicts/)(15 min)
-
+-->
 ## Dagens indhold
 ---
 
