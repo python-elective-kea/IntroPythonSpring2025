@@ -18,8 +18,8 @@ Før vi mødes i klassen skal du have set følgende videoer og løst følgende o
 
 * [Python Lists || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=ohCDWZgNIU0)
 * Copy/paste dette ind i Chat Gpt:    
-
-   ```I would like to have some exercises in python covering lists. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me.```
+   
+   I would like to have some exercises in python covering lists. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me.
 
 * Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
 * Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)
