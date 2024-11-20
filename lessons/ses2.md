@@ -19,7 +19,7 @@ Før vi mødes i klassen skal du have:
 * Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
 * Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)
 * Skimmed denne artikkel: [Dictionaries in Python](https://realpython.com/python-dicts/) (15 min)
-* Skimmed denne artikkel: [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/) (15 min)
+<!--* Skimmed denne artikkel: [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/) (15 min) -->
 
 For at checke om du har den rigtige forståelse skal du lave disse quizes:
 
