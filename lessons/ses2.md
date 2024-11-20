@@ -14,12 +14,11 @@ I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil ar
 
 ## Forberedelse
 ---
-Før vi mødes i klassen skal du have set følgende videoer og løst følgende opgaver:
+Før vi mødes i klassen skal du have set følgende videoer og løst de tilhørende forståelses opgaver vha. ChatGpt:
 
-* [Python Lists || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=ohCDWZgNIU0)
-* Copy/paste dette ind i Chat Gpt:    
+* [Python Lists || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=ohCDWZgNIU0) (5:43)
    
-> I would like to have some exercises in python covering lists. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me.
+> PROMPT: "I would like to have some exercises in python covering lists. The exercises should each one include one of the following areas: Creating a list, getting list elements, slicing, list methods. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
 
 * Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
 * Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)
