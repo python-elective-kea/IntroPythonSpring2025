@@ -20,7 +20,12 @@ Se følgende videoer om moduler og pakker,, og læs dokumentet om at arbejde med
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
+* [Text Files in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=4mX0uPQFLDU&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=31) (6:18)
+
+> PROMPT: "I would like to have some exercises in python covering "Text files in python". Each exercise should include one of the following topics: Opening files, file modes (r, w, a), with, help, dir. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
+
 * [Arbejd med filer i Python](materialer/filer.html) (5:00)
+
 * [Using Python's pip to Manage Your Projects' Dependencies](https://realpython.com/what-is-pip/) (45:00)
     * Sørg for at forstå starten af hver afsnit i denne artikkel. Hen imod slutningen af hvert afsnit bliver det mere og mere detaljeret. Det er fint at i bare har skimmet det, og derved kan finde tilbage til det hvis i får brug for det. Så ... relativ god forståelse af hovedpointerne fra hvert afsnit, og overblik over resten.
 

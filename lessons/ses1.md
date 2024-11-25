@@ -1,4 +1,5 @@
 # Introduktion til python
+## Du skal ikke bare kunne, du skal også vide.
 
 ## Læringsmål
 
