@@ -10,6 +10,7 @@ Efter denne uge vil du:
 - Have en grundlæggende forståelse af et Python-udviklingsmiljø og vide, hvordan du bruger det.
 - Have en grundlæggende forståelse for, hvordan et Python-script er struktureret.
 - Være i stand til at arbejde med strings, betingelser, iterationer og funktioner.
+- Have en grundlæggende forståelse for boolean logik i python.
 
 ## Forberedelse
 Hvis i ikke har nået det endnu, skal i gennemgå denne tutorial inden dagens undervisning:
@@ -21,7 +22,6 @@ I skal desuden have installeret:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/downloads)
 
-Og så må i gerne spørge jeres favorit LLM om hvad **Microservices** er for en størrelse.
 
 ## Dagens indhold
 Mine undervisningsnoter kan i se her:

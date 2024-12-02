@@ -19,11 +19,14 @@
 * [Video: Numpy]()
 * [Video: Pandas]()
 * [Video: Matplotlib]()
+* [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
 * [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
 * [Regression](https://www.webmatematik.dk/lektioner/matematik-b/regression)
 * [iGensim](https://radimrehurek.com/gensim/)
+* [Python Statistics Fundamentals: How to Describe Your Data](https://realpython.com/python-statistics/)
+* [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/#hello-numpy-curving-test-grades-tutorial)
 
 ### Øvelser
 ### Øv 1: Numpy, Matplotlib og linær regressions analyse
@@ -47,3 +50,11 @@ Vi kommer til at bruge dette bibliotek løbende gennem dette semesteret, både i
 I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp), eller i kan  hoppe dirrekte til øvelsen herunder og så bruge tutorialen som opslagsværk. I bestemmer selv.
 
 * [Dataanalyse af San Fransisco crime data](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/Pandas_SF_Crime/exercise_pandas_sf.ipynb)
+
+
+### Øv Numpy
+
+* [NumPy Practical Examples: Useful Techniques](https://realpython.com/numpy-example/#numpy-example-4-writing-your-own-vectorized-functions)
+
+* [Python Plotting With Matplotlib (Guide)
+](https://realpython.com/python-matplotlib-guide/)
