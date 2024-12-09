@@ -10,6 +10,10 @@ Efter denne uge er overstået vil i kunne:
 
 ## Forberedelse
 
+I skal aflevere et screen shot af resultatet fra den quiz i har lavet:
+
+![](../assests/Screenshot%202024-10-30%20at%2007.13.29.png)
+
 ## Dagen i dag
 
 ## Materiale

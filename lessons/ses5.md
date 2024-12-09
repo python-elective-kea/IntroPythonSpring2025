@@ -11,13 +11,20 @@ Formålet med dagens emner er at give dig et overblik over hvad koncepterne RAG,
 
 ## Forberedelse
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
-    * Åben herefter ChatGpt
+    * Åben herefter ChatGpt (flyt til undervisningen)
+
+* [RAG From Scratch: Part 1 (Overview)](https://www.youtube.com/watch?v=wd7TZ4w1mSw)
+    * I videoen snakker manden blandt andet om Vectorer, ChomaDB, og embeddings. 
+
+* [RAG From Scratch: Part 2 (Indexing)](https://www.youtube.com/watch?v=bjb_EMsTDKI)
+* [RAG From Scratch: Part 3 (Retrieval)](https://www.youtube.com/watch?v=LxNVgdIz9sU)
+* [RAG From Scratch: Part 4 (Generation)](https://www.youtube.com/watch?v=Vw52xyyFsB8)
+
+
+
 ## Dagen i dag
 Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra start til slut. Materialet ligger på Fronter. Om I har bestået den obligatoriske opgave nummer 2, vil være afhængigt af om I har åbnet dokumenterne eller ikke, klikket på linkene og afleveret det der skal afleveres (jeg kan se om I har åbnet dokumenterne i Fronters statistik).
 
-I skal aflevere et screen shot af resultatet fra den quiz i har lavet:
-
-![](../assests/Screenshot%202024-10-30%20at%2007.13.29.png)
 
 ## Materiale
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)

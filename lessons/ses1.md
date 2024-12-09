@@ -10,7 +10,7 @@ Efter denne uge vil du:
 - Have en grundlæggende forståelse af et Python-udviklingsmiljø og vide, hvordan du bruger det.
 - Have en grundlæggende forståelse for, hvordan et Python-script er struktureret.
 - Være i stand til at arbejde med strings, betingelser, iterationer og funktioner.
-- Have en grundlæggende forståelse for boolean logik i python.
+- Have forståelse for boolske operatore og logik i python.
 
 ## Forberedelse
 Hvis i ikke har nået det endnu, skal i gennemgå denne tutorial inden dagens undervisning:
