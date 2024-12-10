@@ -2,7 +2,13 @@
 
 Dette valgfag, "Introduktion til Python forår 2025", er designet til at give dig en god forståelse af Python-programmeringssproget, dets udviklingsmilijøer og anvendelser indefor moderne softwareudvikling. Kurset dækker både grundlæggende og avancerede koncepter af Python, med fokus på praktisk anvendelse og en "pythonisk" tilgang til programmering.
 
-Gennem kurset vil studerende lære at udvikle effektive og elegante Python-programmer, udforske forskellige anvendelsesområder for sproget, og få hands-on erfaring med relevante værktøjer og teknologier. Der lægges vægt på at udvikle ikke kun tekniske færdigheder, men også evnen til problemløsning, kritisk tænkning og selvstændig læring.
+Gennem kurset vil du lære at udvikle effektive og elegante Python-programmer, udforske forskellige anvendelsesområder for sproget, og få hands-on erfaring med relevante værktøjer og teknologier. Der lægges vægt på at udvikle ikke kun tekniske færdigheder, men også evnen til problemløsning, kritisk tænkning og selvstændig læring.
+
+**LLM**    
+I dette valgfag er enhver form for AI tilladt, i opfordres oven i købet til at bruge dem så meget som i kan, både til at lære af og til at genrere den faktiske kode i arbjeder med, og hvis i laver nogle applikationer der overgår alt hvad nogen kunne forestille sig muligt, er det bare præcis som det skal være. "Planen" er at i under alle omstændigheder får problemer under vejs, med eller uden brug af LLM´er, så i skal nok lære noget af det.
+
+Til eksamenen i dette fag er det de samme regler der gælder, men der vil være fokus på hvor godt i kan forklare jeres applikation og kode.
+
 
 ## Læringsmål
 
