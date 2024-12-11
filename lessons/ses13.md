@@ -8,3 +8,5 @@ Byg et github repo RAG system, som kan bruges til de forslag der er i chatgpt tr
 * Datasæt med svampe
 
 * Datasæt med lyde af fugle
+
+* hente filer fra Dropbox

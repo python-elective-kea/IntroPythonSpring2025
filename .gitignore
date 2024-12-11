@@ -295,3 +295,6 @@ lessons/*.html
 
 # Specific files (uncomment if you want to ignore them)
 # README.md
+
+# solutions ignore (! for at includere)
+exercises/solutions/*
