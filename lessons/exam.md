@@ -25,7 +25,7 @@ Du vil blive bedømt på:
 1. Forståelse og anvendelse af Python-koncepter
 2. Kodekvalitet og "Pythonic" tilgang
 3. Problemløsning og kreativitet
-4. Præsentationsevner og evne til at forklare din kode
+4. Præsentationsevner og evnen til at forklare din kode
 
 ## Aflevering
 - Projektkode skal pushes til et GitHub-repository
