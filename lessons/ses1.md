@@ -22,6 +22,16 @@ I skal desuden have installeret:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/downloads)
 
+Vi og i kommer naturligt til at brug ChatGpt eller lignende i forbindelse med undervisningen. Det er godt!    
+Det er dog som altid godt at reflekterer over det vi gør og i denne sammenhæng reflekterer over om vi bruger ChatGpt som vi virkelig ønsker at gøre det. Denne artikkel har nogle gode betragtninger og gode råd til hvordan i kan være mere i kontrol over jeres egen udvikling som softwareudviklere. 
+
+* [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+
+Og som det sidste skal du læse dette dokument igennem inde vi mødes til de første timer. 
+
+* [Læse dette før vi mødes]().
+
+Til undervisning vil det generelt være en god ide at tage headphones med. I kommer til at skulle se og lytte til videoer i timerne. 
 
 ## Dagens indhold
 Mine undervisningsnoter kan i se her:

@@ -9,6 +9,12 @@ I dette valgfag er enhver form for AI tilladt, i opfordres oven i købet til at 
 
 Til eksamenen i dette fag er det de samme regler der gælder, men der vil være fokus på hvor godt i kan forklare jeres applikation og kode.
 
+Denne artikkel om brug af AI i forbindelse med softwareudvikling kan være god at læse en gang eller to inden vi går i gang med undervisningen. 
+
+* [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+
+Til alle undervisningagnge vil det være en god ide at tage headphones med da i kommer til at se og lytte individuelt til videoer. 
+
 
 ## Læringsmål
 
@@ -44,4 +50,4 @@ I kurset bruger vi følgende software.
 * [VS Code](https://code.visualstudio.com/download) 
 * [Docker og Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * Git & Github
-* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt)
+* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt, men demoer i undervisning gøres primært vha. OpenAI´s API)

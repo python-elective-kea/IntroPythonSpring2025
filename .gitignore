@@ -298,3 +298,5 @@ lessons/*.html
 
 # solutions ignore (! for at includere)
 exercises/solutions/*
+
+teacher/*
