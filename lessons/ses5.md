@@ -15,6 +15,18 @@ Du skal starte med at se denne introduktion til LLM´er:
 
 > Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (5-10 minutter).
 
+**Herefter skal du se 3 små videoer.**     
+Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation (RAG) er, og hvad Agents er og kan bruges til i et RAG system. 
+
+* [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M) (6:35)
+* [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI) (12:28)
+* [What is Agentic RAG?](https://www.youtube.com/watch?v=0z9_MhcYvcY) (5:41)
+
+**Embeddings, Vetors og vectordatabaser**
+Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sætninger eller dokumenter til vektore. 
+
+
+
 **Lav følgende tutorial**
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
 Du kan evt. også downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
