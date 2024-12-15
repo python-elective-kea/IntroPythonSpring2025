@@ -1,7 +1,7 @@
 # Introduktion til Large Language Models (LLM) i Python     
-Lektionerne i dag er tilrettelagt som selvstudie. De er desuden en del af den 2. obligatoriske opgave. 
-Fokus er på videoer I skal se, nogle tekster I skal læse, og nogle opgaver I skal lave og aflevere. 
-Formålet med dagens emner er at give dig et overblik over hvad koncepterne RAG, Agents, Reasonal thinking etc. er. 
+Lektionerne i dag er tilrettelagt som selvstudie. Du skal læse dette dokument fra top til bund og følge læringsforløbet.     
+Fokus er på videoer I skal se, nogle I skal læse, og nogle opgaver I skal lave.      
+Formålet med dagens emner er at give dig et overblik over hvad koncepterne Embeddings, RAG, Agents, Reasonal thinking og på at komme igen med at bruge frameworket Langchain.
 
 ## Læringsmål
 * Have en overordnet forståelse for hvad en LLM kan bruges til (ud over chatbot scenariet)
@@ -9,9 +9,11 @@ Formålet med dagens emner er at give dig et overblik over hvad koncepterne RAG,
 * Forstå hvad embeddings er og hvordan de bruges af LLM´s 
 * Kunne bruge text, audio, image, video embeddings models
 
-## Forberedelse
+## Læringsforløbet
+Du skal starte med at se denne introduktion til LLM´er:
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
-    * Åben herefter ChatGpt (flyt til undervisningen)
+
+> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (5-10 minutter).
 
 **Lav følgende tutorial**
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
