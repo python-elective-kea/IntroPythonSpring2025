@@ -9,11 +9,11 @@ Formålet med dagens emner er at give dig et overblik over hvad koncepterne Embe
 * Forstå hvad embeddings er og hvordan de bruges af LLM´s 
 * Kunne bruge text, audio, image, video embeddings models
 
-## Læringsforløbet
+## Forberedelse
 Du skal starte med at se denne introduktion til LLM´er:
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
 
-> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (5-10 minutter).
+> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (15: minutter).
 
 **Herefter skal du se 3 små videoer.**     
 Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation (RAG) er, og hvad Agents er og kan bruges til i et RAG system. 
@@ -27,7 +27,9 @@ Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sæ
 
 
 
-**Lav følgende tutorial**
+**Lav følgende tutorial**    
+:w
+
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
 Du kan evt. også downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
 Formålet er ikke at du bare læser den igennem og får den til at køre, du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i.
