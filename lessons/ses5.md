@@ -28,7 +28,6 @@ Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sæ
 
 
 **Lav følgende tutorial**    
-:w
 
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
 Du kan evt. også downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
