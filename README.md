@@ -17,9 +17,9 @@
 |   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib |
 |   | 14/04/2025 | Påskeferie |
 |    | 21/04/2025 | Påskeferie |
-|   12    | 14/04/2025 | Obligatorisk opgave 2: Videopræsentaiton af eksamensprojektide|
-|   13    | 20/04/2025 | Projektarbejde                                            |
-|   14    | 27/04/2025 | Projektarbejde                                            |
+|   12    | 28/04/2025 | Obligatorisk opgave 2: Videopræsentaiton af eksamensprojektide|
+|   13    | 05/05/2025 | Projektarbejde                                            |
+|   14    | 12/05/2025 | Projektarbejde                                            |
 
 ## Om valgfaget
 * [Læs mere om vagfaget her](lessons/about_this_elective.md)
