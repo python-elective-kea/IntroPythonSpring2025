@@ -1,7 +1,6 @@
 # Introduktion til Large Language Models (LLM) i Python     
-Lektionerne i dag er tilrettelagt som selvstudie. Du skal læse dette dokument fra top til bund og følge læringsforløbet.     
-Fokus er på videoer I skal se, nogle I skal læse, og nogle opgaver I skal lave.      
-Formålet med dagens emner er at give dig et overblik over hvad koncepterne Embeddings, RAG, Agents, Reasonal thinking og på at komme igen med at bruge frameworket Langchain.
+Formålet med dagens emner er at give dig et overblik over hvordan vi kan arbejde med LLM´er som en inkoorpereret del af vores applikationer. Vi vil først få styr på et par grundlæggende koncepter som Transformers, Embeddings, RAG, Agents. Til at kode vores applikationer som gør brug af disse elementer skal vi bruge et framework som hedder **Langchain**. Dette framework kommer du også til at lege med idag.     
+Og ikke mindst, så hedder valgfaget jo **Introduktion til python**, så vi kommer også til at bruge en del tid på at forstå den kode vi skriver eller kopierer fra tutorials eller ChatGpt. 
 
 ## Læringsmål
 * Have en overordnet forståelse for hvad en LLM kan bruges til (ud over chatbot scenariet)
@@ -13,7 +12,7 @@ Formålet med dagens emner er at give dig et overblik over hvad koncepterne Embe
 Du skal starte med at se denne introduktion til LLM´er:
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
 
-> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (15: minutter).
+> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (15 minutter).
 
 **Herefter skal du se 3 små videoer.**     
 Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation (RAG) er, og hvad Agents er og kan bruges til i et RAG system. 
@@ -28,10 +27,9 @@ Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sæ
 
 
 **Lav følgende tutorial**    
-
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
-Du kan evt. også downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
-Formålet er ikke at du bare læser den igennem og får den til at køre, du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i.
+Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
+Formålet er ikke at du bare læser den igennem og får den til at køre. Du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i. Vi kommer i undervisningen til at kigge på selve koden, og i får en forklaring på hvad de forskellige elementer betyder. Så hvis det virker uforståeligt går du bare videre, og glæder dig over at du har et umiddelbart overblik over koden.     
 
 
 * [RAG From Scratch: Part 1 (Overview)](https://www.youtube.com/watch?v=wd7TZ4w1mSw)

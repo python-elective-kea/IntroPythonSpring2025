@@ -15,7 +15,9 @@
 |    9    | 23/03/2025 | Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis|
 |   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib |
 |   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib |
-|   12    | 13/04/2025 | Obligatorisk opgave 2: Videopræsentaiton af eksamensprojektide|
+|   Påske | 14/04/2025 | Påskeferie |
+|   Påske | 21/04/2025 | Påskeferie |
+|   12    | 14/04/2025 | Obligatorisk opgave 2: Videopræsentaiton af eksamensprojektide|
 |   13    | 20/04/2025 | Projektarbejde                                            |
 |   14    | 27/04/2025 | Projektarbejde                                            |
 
