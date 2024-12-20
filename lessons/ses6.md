@@ -31,3 +31,8 @@ I skal desuden løbende lave mindre øvelser der berører hvert enkelt emne beha
 
 
 ## Øvelser
+
+**Lav følgende tutorial**    
+* [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
+Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
+Formålet er ikke at du bare læser den igennem og får den til at køre. Du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i. Vi kommer i undervisningen til at kigge på selve koden, og i får en forklaring på hvad de forskellige elementer betyder. Så hvis det virker uforståeligt går du bare videre, og glæder dig over at du har et umiddelbart overblik over koden.     

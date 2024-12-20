@@ -24,17 +24,6 @@ Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation 
 **Embeddings, Vetors og vectordatabaser**
 Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sætninger eller dokumenter til vektore. 
 
-
-
-**Lav følgende tutorial**    
-* [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
-Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
-Formålet er ikke at du bare læser den igennem og får den til at køre. Du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i. Vi kommer i undervisningen til at kigge på selve koden, og i får en forklaring på hvad de forskellige elementer betyder. Så hvis det virker uforståeligt går du bare videre, og glæder dig over at du har et umiddelbart overblik over koden.     
-
-
-
-
-
 ## Dagen i dag
 Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra start til slut. Materialet ligger på Fronter. Om I har bestået den obligatoriske opgave nummer 2, vil være afhængigt af om I har åbnet dokumenterne eller ikke, klikket på linkene og afleveret det der skal afleveres (jeg kan se om I har åbnet dokumenterne i Fronters statistik).
 
