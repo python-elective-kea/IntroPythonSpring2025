@@ -32,10 +32,6 @@ Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/
 Formålet er ikke at du bare læser den igennem og får den til at køre. Du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i. Vi kommer i undervisningen til at kigge på selve koden, og i får en forklaring på hvad de forskellige elementer betyder. Så hvis det virker uforståeligt går du bare videre, og glæder dig over at du har et umiddelbart overblik over koden.     
 
 
-* [RAG From Scratch: Part 1 (Overview)](https://www.youtube.com/watch?v=wd7TZ4w1mSw)
-* [RAG From Scratch: Part 2 (Indexing)](https://www.youtube.com/watch?v=bjb_EMsTDKI)
-* [RAG From Scratch: Part 3 (Retrieval)](https://www.youtube.com/watch?v=LxNVgdIz9sU)
-* [RAG From Scratch: Part 4 (Generation)](https://www.youtube.com/watch?v=Vw52xyyFsB8)
 
 
 
