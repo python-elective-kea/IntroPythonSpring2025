@@ -9,8 +9,8 @@
 |    3    | 10/02/2025 | [Python - modules, virtual environmnets, requirements.txt](lessons/ses3.md)|
 |    4    | 17/02/2025 | Obligatorisk opgave 1:                          |
 |    5    | 24/02/2025 | [Introduktion til Large Language Models (LLM) i Python](lessons/ses5.md)     |
-|    6    | 02/03/2025 | [Prompt Engineering for LLMs](lessons/ses6.md)                               |
-|    7    | 09/03/2025 | [Retrieval-Augmented Generation (RAG) Teknikker](lessons/ses7.md)           |
+|    6    | 02/03/2025 | [Langchain Basics og Retrieval-Augmented Generation (RAG)](lessons/ses6.md)                               |
+|    7    | 09/03/2025 | [Prompt Engineering](lessons/ses7.md)           |
 |    8    | 16/03/2025 | [Streamlit Frontend]()|
 |    9    | 23/03/2025 | Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis|
 |   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib |

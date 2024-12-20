@@ -15,7 +15,7 @@ Du skal starte med at se denne introduktion til LLM´er:
 > Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (15 minutter).
 
 **Herefter skal du se 3 små videoer.**     
-Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation (RAG) er, og hvad Agents er og kan bruges til i et RAG system. 
+Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation (RAG) er, hvad Agents er og hvad Agentic RAG er og an bruges til i et RAG system. 
 
 * [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M) (6:35)
 * [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI) (12:28)
