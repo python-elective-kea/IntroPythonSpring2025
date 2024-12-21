@@ -11,13 +11,13 @@
 |    5    | 24/02/2025 | [Introduktion til Large Language Models (LLM) i Python](lessons/ses5.md)     |
 |    6    | 02/03/2025 | [Langchain Basics og Retrieval-Augmented Generation (RAG)](lessons/ses6.md)                               |
 |    7    | 09/03/2025 | [Prompt Engineering](lessons/ses7.md)           |
-|    8    | 16/03/2025 | [Streamlit Frontend]()|
-|    9    | 23/03/2025 | Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis|
-|   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib |
+|    8    | 16/03/2025 | [Lanchain agents and tools]()|
+|    9    | 23/03/2025 | [Streamlit Frontend]()|
+|   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis|
 |   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib |
 |   | 14/04/2025 | Påskeferie |
 |    | 21/04/2025 | Påskeferie |
-|   12    | 28/04/2025 | Obligatorisk opgave 2: Videopræsentaiton af eksamensprojektide|
+|   12    | 28/04/2025 | Semester recap og oplæg om eksamensopgave |
 |   13    | 05/05/2025 | Projektarbejde                                            |
 |   14    | 12/05/2025 | Projektarbejde                                            |
 
