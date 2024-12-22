@@ -1,10 +1,9 @@
-# Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis
+# Dataanalyse med numpy, pandas og matplotlib: Intro til moduler
 
 ## Læringsmål
 * Numpy
+* Pandas
 * Matplotlib
-* Linier regression
-* 
 
 ## Forberedelse
 * [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4) (58:40)
@@ -58,3 +57,10 @@ I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www
 
 * [Python Plotting With Matplotlib (Guide)
 ](https://realpython.com/python-matplotlib-guide/)
+
+### Øv prompt
+Copy/paste følgende prompt ind i chatgpt (eller lign llm). Prompten virker bedst i gpt4o.
+
+`Can you give me some exercises in python regarding the use of the Pandas library. 
+You should give me one exercise at the time, and then evaluate my answer to the exercise from 1 to 10,
+and then give me another exercise that is either harder or easier based on the evaluation you did.`

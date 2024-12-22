@@ -7,14 +7,14 @@
 |    1    | 27/01/2025 | [Introduktion til python](lessons/ses1.md)                |
 |    2    | 03/02/2025 | [Python - datastrukture](lessons/ses2.md)                 |
 |    3    | 10/02/2025 | [Python - modules, virtual environmnets, requirements.txt](lessons/ses3.md)|
-|    4    | 17/02/2025 | Obligatorisk opgave 1:                          |
+|    4    | 17/02/2025 | Obligatorisk opgave                         |
 |    5    | 24/02/2025 | [Introduktion til Large Language Models (LLM) i Python](lessons/ses5.md)     |
 |    6    | 02/03/2025 | [Langchain Basics og Retrieval-Augmented Generation (RAG)](lessons/ses6.md)                               |
 |    7    | 09/03/2025 | [Prompt Engineering](lessons/ses7.md)           |
 |    8    | 16/03/2025 | [Lanchain agents and tools]()|
 |    9    | 23/03/2025 | [Streamlit Frontend]()|
-|   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib: San Francisco Crime Analysis|
-|   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib |
+|   10    | 30/03/2025 | Dataanalyse med numpy, pandas og matplotlib: Intro til moduler |
+|   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib: Embeddings visulization |
 |   | 14/04/2025 | Påskeferie |
 |    | 21/04/2025 | Påskeferie |
 |   12    | 28/04/2025 | Semester recap og oplæg om eksamensopgave |
