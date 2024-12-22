@@ -61,6 +61,6 @@ I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www
 ### Øv prompt
 Copy/paste følgende prompt ind i chatgpt (eller lign llm). Prompten virker bedst i gpt4o.
 
-`Can you give me some exercises in python regarding the use of the Pandas library. 
+> Can you give me some exercises in python regarding the use of the Pandas library. 
 You should give me one exercise at the time, and then evaluate my answer to the exercise from 1 to 10,
-and then give me another exercise that is either harder or easier based on the evaluation you did.`
+and then give me another exercise that is either harder or easier based on the evaluation you did.
