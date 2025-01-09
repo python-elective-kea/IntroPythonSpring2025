@@ -6,9 +6,29 @@
 * Matplotlib
 
 ## Forberedelse
+Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er og hvad de bruges til:
+
+* [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk) (5:54)
+
+Herefter kig på denne introduktion til hvad Matplolib biblioteket kan bruges til:
+* [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
+
+Den næste tutorial handler om **Numpy** og om mere detaljeret brug af modulet.
+
 * [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4) (58:40)
 
+Herefter skal du træne brugen af numpy vha. af følgende prompt.
+
+<!--
 > PROMPT: "I would like to have some exercises in python covering the Numpy library. Each exercise should include one of the following topics: Creating a numpy array,. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
+-->
+
+Som det sidste i forberedelsen skal du lære om modulet **Pandas**:
+
+* []()
+
+
+
 
 
 ## Dagen i dag
