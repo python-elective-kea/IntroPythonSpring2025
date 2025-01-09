@@ -9,7 +9,9 @@ Matplotlib bibliotekets formål er at generere visuelle grafer og diagrammer, of
 * Kunne bruge biblioteket Pandas
 * Kunne bruge biblioteket Matplotlib
 
-## Forberedelse
+## Forberedels
+_(forberedelse til i dag er på omkring 3 timer)_    
+
 Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er og hvad de bruges til:
 
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk) (5:54)
@@ -29,7 +31,7 @@ Herefter skal du træne brugen af numpy vha. af følgende prompt.
 
 Som det sidste i forberedelsen skal du lære om modulet **Pandas**:
 
-* []()
+* [Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)](https://www.youtube.com/watch?v=2uvysYbKdjM) (1:34:10)
 
 
 
