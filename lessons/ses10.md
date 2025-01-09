@@ -1,9 +1,13 @@
 # Dataanalyse med numpy, pandas og matplotlib: Intro til moduler
+I dag tager vi hul på dataanalyse delen af dette valgfag. Vi starter med at lære 3 biblioteker at kende: **Numpy**, **Pandas** og **Matplotlib**. Numpy er et akronym for "Numerical Python", Pandas for "Panel Data" og "Matplotlib" kunne vel tolkes som "Mathmatical Plotting Library", selvom det mere korrekt er "MATLAB plotting Library".
+
+"Numerical" peger på at biblioteket bruges til tal og beregninger. Så numpy er et bibliotek til at arbejde med tal, Statistik, linier algebra mm. "Panel Data" er et begreb fra statistik og økonomi, der refererer til multidimensionelle datasæt.    
+Matplotlib bibliotekets formål er at generere visuelle grafer og diagrammer, ofte baseret på det data man har arbejdet med i numpy og pandas.
 
 ## Læringsmål
-* Numpy
-* Pandas
-* Matplotlib
+* Kunne bruge biblioteket Numpy
+* Kunne bruge biblioteket Pandas
+* Kunne bruge biblioteket Matplotlib
 
 ## Forberedelse
 Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er og hvad de bruges til:
@@ -17,9 +21,9 @@ Den næste tutorial handler om **Numpy** og om mere detaljeret brug af modulet.
 
 * [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4) (58:40)
 
+<!--
 Herefter skal du træne brugen af numpy vha. af følgende prompt.
 
-<!--
 > PROMPT: "I would like to have some exercises in python covering the Numpy library. Each exercise should include one of the following topics: Creating a numpy array,. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
 -->
 
