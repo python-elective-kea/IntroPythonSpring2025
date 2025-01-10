@@ -49,7 +49,6 @@ Denne tutotial er lang og du kan vælge at "skimme" dele af den igennem, men sø
 * [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
 * [Regression](https://www.webmatematik.dk/lektioner/matematik-b/regression)
 * [iGensim](https://radimrehurek.com/gensim/)
-* [Python Statistics Fundamentals: How to Describe Your Data](https://realpython.com/python-statistics/)
 * [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/#hello-numpy-curving-test-grades-tutorial)
 
 ### Øvelser
@@ -69,8 +68,6 @@ Det er ok bare at højreklikke på filerne og derefter sige ja til at downloade 
 
 I den næste øvelse skal du arbejde med biblioteket [Pandas](https://www.w3schools.com/python/pandas/default.asp). 
 
-Vi kommer til at bruge dette bibliotek løbende gennem dette semesteret, både i dette fag,  men også med Michael sammen med programmet Tableau. Men lige nu skal i bare lege med det. 
-
 I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp), eller i kan  hoppe dirrekte til øvelsen herunder og så bruge tutorialen som opslagsværk. I bestemmer selv.
 
 * [Dataanalyse af San Fransisco crime data](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/Pandas_SF_Crime/exercise_pandas_sf.ipynb)
@@ -78,14 +75,5 @@ I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www
 
 ### Øv Numpy
 
-* [NumPy Practical Examples: Useful Techniques](https://realpython.com/numpy-example/#numpy-example-4-writing-your-own-vectorized-functions)
-
 * [Python Plotting With Matplotlib (Guide)
 ](https://realpython.com/python-matplotlib-guide/)
-
-### Øv prompt
-Copy/paste følgende prompt ind i chatgpt (eller lign llm). Prompten virker bedst i gpt4o.
-
-> Can you give me some exercises in python regarding the use of the Pandas library. 
-You should give me one exercise at the time, and then evaluate my answer to the exercise from 1 to 10,
-and then give me another exercise that is either harder or easier based on the evaluation you did.
