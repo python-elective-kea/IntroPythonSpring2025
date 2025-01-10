@@ -19,10 +19,13 @@ Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er
 Herefter kig på denne introduktion til hvad Matplolib biblioteket kan bruges til:
 * [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
 
-Den næste tutorial handler om **Numpy** og om mere detaljeret brug af modulet.
+Den næste tutorial handler om **Numpy** og om en overordnet brug af modulet.
 
+* [Numpy getting started]() (6:00)
+
+<!-- 
 * [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4) (58:40)
-
+--> 
 <!--
 Herefter skal du træne brugen af numpy vha. af følgende prompt.
 
@@ -30,20 +33,14 @@ Herefter skal du træne brugen af numpy vha. af følgende prompt.
 -->
 
 Som det sidste i forberedelsen skal du lære om modulet **Pandas**:
+Denne tutotial er lang og du kan vælge at "skimme" dele af den igennem, men sørg for som udgangspunkt at have en god forståelse for hvordan du bruger **Pandas**.
 
 * [Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)](https://www.youtube.com/watch?v=2uvysYbKdjM) (1:34:10)
-
-
-
 
 
 ## Dagen i dag
 
 ## Materiale
-* []()
-* [Video: Numpy]()
-* [Video: Pandas]()
-* [Video: Matplotlib]()
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
