@@ -13,8 +13,8 @@
 |    7    | 09/03/2025 | [Prompt Engineering](lessons/ses7.md)           |
 |    8    | 16/03/2025 | [Lanchain agents and tools]()|
 |    9    | 23/03/2025 | [Streamlit Frontend]()|
-|   10    | 30/03/2025 | [Dataanalyse med numpy, pandas og matplotlib: Intro til moduler](lessons/ses10.md) |
-|   11    | 06/04/2025 | Dataanalyse med numpy, pandas og matplotlib: Embeddings visulization |
+|   10    | 30/03/2025 | [Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler](lessons/ses10.md) |
+|   11    | 06/04/2025 | [Dataanalyse med numpy, pandas og matplotlib](lessons/ses11.md) |
 |   | 14/04/2025 | Påskeferie |
 |    | 21/04/2025 | Påskeferie |
 |   12    | 28/04/2025 | Semester recap og oplæg om eksamensopgave |

@@ -1,51 +1,20 @@
-# Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler
-I dag tager vi hul på dataanalyse delen af dette valgfag. Vi starter med at lære 3 biblioteker at kende: **Numpy**, **Pandas** og **Matplotlib**. Numpy er et akronym for "Numerical Python", Pandas for "Panel Data" og "Matplotlib" kunne vel tolkes som "Mathmatical Plotting Library", selvom det mere korrekt er "MATLAB plotting Library".
-
-"Numerical" peger på at biblioteket bruges til tal og beregninger. Så numpy er et bibliotek til at arbejde med tal, Statistik, linier algebra mm. "Panel Data" er et begreb fra statistik og økonomi, der refererer til multidimensionelle datasæt.    
-Matplotlib bibliotekets formål er at generere visuelle grafer og diagrammer, ofte baseret på det data man har arbejdet med i numpy og pandas.
+# Dataanalyse med numpy, pandas og matplotlib
 
 ## Læringsmål
 * Kunne bruge biblioteket Numpy
-* Have viden om biblioteket Pandas
+* Kunne bruge biblioteket Pandas
 * Kunne bruge biblioteket Matplotlib
 
-## Forberedels
-_(forberedelse til i dag er på omkring 3 timer)_    
-
-Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er og hvad de bruges til:
-
-* [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk) (5:54)
-
-Resten af denne uges sessioner bruger vi på **Numpy** og **Matplotlib**, mens **pandas** er fokusområdet for næste uge. 
-
-Gå nu videre med denne introduktion til Matplolib biblioteket:
-* [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
-
-Den næste tutorial handler om **Numpy** og om en overordnet brug af modulet.
-
-* [Numpy getting started]() (6:00)
-
-<!-- 
-* [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4) (58:40)
---> 
-<!--
-Herefter skal du træne brugen af numpy vha. af følgende prompt.
-
-> PROMPT: "I would like to have some exercises in python covering the Numpy library. Each exercise should include one of the following topics: Creating a numpy array,. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
--->
-<!--
-Som det sidste i forberedelsen skal du lære om modulet **Pandas**:
+## Forberedels  
 Denne tutotial er lang og du kan vælge at "skimme" dele af den igennem, men sørg for som udgangspunkt at have en god forståelse for hvordan du bruger **Pandas**.
 
 * [Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)](https://www.youtube.com/watch?v=2uvysYbKdjM) (1:34:10)
--->
 ## Dagen i dag
 
 
 
 
 ## Materiale
-* [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
 * [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
