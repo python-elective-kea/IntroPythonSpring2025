@@ -34,16 +34,25 @@ Herefter skal du træne brugen af numpy vha. af følgende prompt.
 
 ![](../assests/vector_matrix_tensor.png)
 
-## Materiale
+Vi starter med at opsumere hvad i har været igennem i forberedelsen. Det bliver om forskellen på ndarrays i forhold til billedet her over. Vi kommer desuden til at kigge en del på hvordan man manipulerer disse arrays.     
+
+I skal også lære at bruge [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) og [matplotlibs](https://matplotlib.org/stable/) dokumentation.
+
+
+
+
+## Materialeliste
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
-* [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
 * [Regression](https://www.webmatematik.dk/lektioner/matematik-b/regression)
-* [iGensim](https://radimrehurek.com/gensim/)
+
+<!-- 
 * [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/#hello-numpy-curving-test-grades-tutorial)
+-->
 
 ### Øvelser
+
 ### Øv 1: Numpy, Matplotlib og linær regressions analyse
 Start med at downloade disse fire filer:
 * [Data 1](../assests/data1.tsv), [Data 2](../assests/data2.tsv), [Data 3](../assests/data3.tsv), og [Data 4](../assests/data4.tsv).    

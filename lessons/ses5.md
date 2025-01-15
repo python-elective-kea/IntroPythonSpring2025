@@ -12,7 +12,7 @@ Og ikke mindst, så hedder valgfaget jo **Introduktion til python**, så vi komm
 Du skal starte med at se denne introduktion til LLM´er:
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
 
-> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er en for for eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (15 minutter).
+> Åben herefter ChatGpt og prøv at se om du kan identificere noget af det som Andrey snakker om. Feks. kan du prøve at se på hvornår det er en ren sprogmodel du skriver med, eller på hvornår der er eksterne værktøjer indvolveret. Prøv at skifte model fra feks. GPT4 til o1 modellerne og iagtag om der er nogen ændring i forhold til hvad der blev snakket om i videoen. (15 minutter).
 
 **Herefter skal du se 3 små videoer.**     
 Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation (RAG) er, hvad Agents er og hvad Agentic RAG er og an bruges til i et RAG system. 
@@ -22,7 +22,7 @@ Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation 
 * [What is Agentic RAG?](https://www.youtube.com/watch?v=0z9_MhcYvcY) (5:41)
 
 **Embeddings, Vetors og vectordatabaser**
-Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sætninger eller dokumenter til vektore. 
+Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sætninger eller dokumenter til vektore (lister af tal). 
 
 ## Dagen i dag
 Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra start til slut. Materialet ligger på Fronter. Om I har bestået den obligatoriske opgave nummer 2, vil være afhængigt af om I har åbnet dokumenterne eller ikke, klikket på linkene og afleveret det der skal afleveres (jeg kan se om I har åbnet dokumenterne i Fronters statistik).
