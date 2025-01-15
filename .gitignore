@@ -297,6 +297,6 @@ lessons/*.html
 # README.md
 
 # solutions ignore (! for at includere)
-exercises/solutions/*
+#exercises/solutions/*
 
-teacher/*
+#teacher/*
