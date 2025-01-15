@@ -32,6 +32,7 @@ Herefter skal du træne brugen af numpy vha. af følgende prompt.
 
 ## Dagen i dag
 
+![](../assests/vector_matrix_tensor.png)
 
 ## Materiale
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
@@ -54,14 +55,6 @@ Det er ok bare at højreklikke på filerne og derefter sige ja til at downloade 
 
 1. Brug `numpy` funktionen `mean` til at beregne gennemsnittet af både x-værdier og y-værdier for hvert datasæt. For at formatere resultaterne med præcis 2 decimaler, skal du bruge Python f-string.
 2. Beregn nu variansen for alle de forskellige sæt af x- og y-værdier ved at bruge `numpy` funktionen `var`. Print det med tre decimaler.
-
-### Øv 2: Dataanalyse med Pandas
-
-I den næste øvelse skal du arbejde med biblioteket [Pandas](https://www.w3schools.com/python/pandas/default.asp). 
-
-I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp), eller i kan  hoppe dirrekte til øvelsen herunder og så bruge tutorialen som opslagsværk. I bestemmer selv.
-
-* [Dataanalyse af San Fransisco crime data](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/Pandas_SF_Crime/exercise_pandas_sf.ipynb)
 
 
 ### Øv Numpy
