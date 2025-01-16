@@ -17,9 +17,6 @@ Denne tutotial er lang og du kan vælge at "skimme" dele af den igennem, men sø
 ## Materiale
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
-* [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
-* [Regression](https://www.webmatematik.dk/lektioner/matematik-b/regression)
-* [iGensim](https://radimrehurek.com/gensim/)
 * [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/#hello-numpy-curving-test-grades-tutorial)
 
 ### Øvelser
