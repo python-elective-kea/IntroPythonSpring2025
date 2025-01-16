@@ -29,7 +29,7 @@ Du vil blive bedømt på:
 
 ## Aflevering
 - Projektkode skal pushes til et GitHub-repository
-- Repository skal indeholde en readmefil med en beskrivelse af dit projekt. 
+- Repository skal indeholde en readmefil med relevant info vedrørende dit projekt. 
 
 ## Karaktergivning
 Eksamen bedømmes efter 7-trinsskalaen, og er en kombination af en bedømmelse af den afleverede opgave (projekt) og din evne til at forklare den og forholde dig til projektet ved den mundtlige eksamen. 
