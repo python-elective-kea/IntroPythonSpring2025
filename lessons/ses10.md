@@ -16,13 +16,9 @@ Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er
 
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk) (5:54)
 
-Resten af denne uges sessioner bruger vi på **Numpy** og **Matplotlib**, mens **pandas** er fokusområdet for næste uge. 
+Resten af denne uges sessioner bruger vi på **Numpy** og **Matplotlib**, mens **Pandas** er fokusområdet for næste uge. 
 
-Gå nu videre med denne introduktion til Matplolib biblioteket:
-* [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
-
-Den næste tutorial handler om **Numpy** og om en overordnet brug af modulet.
-
+Gå nu videre med denne introduktion til Numpy:
 * [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI) (58:09)
 
 Herefter skal du træne brugen af numpy vha. af følgende prompt.
@@ -30,22 +26,37 @@ Herefter skal du træne brugen af numpy vha. af følgende prompt.
 > PROMPT: "I want to practice Python exercises focusing on the NumPy library. Each exercise should cover one of the following topics: creating a NumPy array, manipulating arrays, or applying mathematical operations on arrays.
 > Please give me one exercise at a time. After I submit my solution, evaluate my answer, provide constructive feedback, and grade it on a scale of 1 to 10. Based on my performance, adjust the difficulty level of the next exercise to either be harder or easier."
 
+Til sidst skal du se denne video om Matplotlib:
+
+* [Matplotlib Tutorial: For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=cTJBJH8hacc&list=PLkdGijFCNuVnGxo-1fSNcdHh5gZc17oRM) (47:59)
+
+OBS: Han starter  med at beskrive et modul der skal installeres (SciencePlots). Det er ikke nødvendigt, så bare undlad dette. 
+
+
+<!--
+* [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
+-->
+
+
 ## Dagen i dag
 
 ![](../assests/vector_matrix_tensor.png)
 
-Vi starter med at opsumere hvad i har været igennem i forberedelsen. Det bliver om forskellen på ndarrays i forhold til billedet her over. Vi kommer desuden til at kigge en del på hvordan man manipulerer disse arrays.     
+Vi starter med at opsumere hvad i har været igennem i forberedelsen. 
+
+* [NumPy Tutorial.ipynb](https://github.com/KeithGalli/NumPy/blob/master/NumPy%20Tutorial.ipynb)
+* [Matplotlib Tutorial.ipynb](https://github.com/KeithGalli/matplotlib_tutorial/blob/master/Matplotlib%20Tutorial.ipynb)
 
 I skal også lære at bruge [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) og [matplotlibs](https://matplotlib.org/stable/) dokumentation.
-
-
-
 
 ## Materialeliste
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
-* [Regression](https://www.webmatematik.dk/lektioner/matematik-b/regression)
+* [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
+* [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI) (58:09)
+* [NumPy Tutorial.ipynb](https://github.com/KeithGalli/NumPy/blob/master/NumPy%20Tutorial.ipynb)
+* [Matplotlib Tutorial.ipynb](https://github.com/KeithGalli/matplotlib_tutorial/blob/master/Matplotlib%20Tutorial.ipynb)
 
 <!-- 
 * [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/#hello-numpy-curving-test-grades-tutorial)
