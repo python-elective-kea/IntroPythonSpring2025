@@ -65,7 +65,14 @@ I skal også lære at bruge [numpy](https://numpy.org/doc/stable/user/absolute_b
 
 ### Øvelser
 
-### Øv 1: Numpy, Matplotlib og linær regressions analyse
+### 1. Lav disse plots
+Du skal lave koden der generer disse plots. Kom så tæt på denne illustration som muligt. Når du er færdig kan du forsøge at forbedre plotenes udseende. 
+
+![](../assests/plot_opgave.png)
+
+
+
+### 2. Numpy, Matplotlib og linær regressions analyse
 Start med at downloade disse fire filer fra et meget berømt dataset (i hvert tilfælde inden for Data Science miljøet):
 * [Data 1](../assests/data1.tsv), [Data 2](../assests/data2.tsv), [Data 3](../assests/data3.tsv), og [Data 4](../assests/data4.tsv).    
 Formatet er _.tsv_ og det står for _tab seperated values_. Hver fil har to kolonner (adskilt med tab-tegnet). Den første kolonne er x-værdier, og den anden kolonne er y-værdier.    
@@ -77,8 +84,10 @@ Det er ok at højreklikke på filerne og derefter sige ja til at downloade dem, 
 1. Brug `numpy` funktionen [`mean`](https://numpy.org/doc/stable/reference/generated/numpy.mean.html) til at beregne gennemsnittet af både x-værdier og y-værdier for hvert datasæt. For at formatere resultaterne med præcis 2 decimaler, skal du bruge Python f-string.
 2. Beregn nu variansen for alle de forskellige sæt af x- og y-værdier ved at bruge `numpy` funktionen [`var`](https://numpy.org/doc/stable/reference/generated/numpy.var.html). Print det med tre decimaler.
 3. Brug NumPy til at beregne [Pearsons korrelation](https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html) mellem x- og y-værdierne for alle fire datasæt. Print resultatet med tre decimaler.
-
-
+4. Brug lineær regression til at finde en ret linje \( $f(x) = ax + b$ \) gennem hvert datasæt, og udskriv værdierne for \( $a$ \) og \( $b$ \)  
+(med to decimalers præcision).
+    * I vil godt kunne bruge numpy til at beregne dette, men biblioteket [Scipy](https://docs.scipy.org/doc/scipy-1.15.0/reference/generated/scipy.stats.linregress.html) har en lidt mere dirrekte metode til at beregne det. 
+5. Plot de fire datasæt ved hjælp af matplotlib.pyplot. Lav et subplot med 2 rækker og 2 kolonner for at placere alle plots pænt i et gitter, og brug samme x- og y-område for alle fire plots. Inkluder den lineære regressions linie i alle fire plots. Sørg for at have beskrivelselser (labels) på x- og y-akserne og en title på hvert plot, så man kan se hvilke data du beskriver.
 
 
 ### Tutorials
