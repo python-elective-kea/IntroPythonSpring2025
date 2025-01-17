@@ -41,7 +41,8 @@ I kan enten først kigge på denne simple tutorial [Pandas Tutorial](https://www
 * [Dataanalyse af San Fransisco crime data](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/Pandas_SF_Crime/exercise_pandas_sf.ipynb)
 
 
-### Øv Numpy
+### Tutorials
+Som det sidste skal i gennemgå disse 2 tutorials. Den ene om Numpy, den anden om Matplotlib. Jeg (Claus) har været igennem dele af materialet i mine gennemgange af stoffet i klassen, så i kan se det som en slags "opfrisker". Ud over det går begge tutorials lidt mere i dybden med begge biblioteker. 
 
-* [Python Plotting With Matplotlib (Guide)
-](https://realpython.com/python-matplotlib-guide/)
+* [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+* [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)

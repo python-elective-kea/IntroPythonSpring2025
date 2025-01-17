@@ -77,8 +77,8 @@ Det er ok bare at højreklikke på filerne og derefter sige ja til at downloade 
 1. Brug `numpy` funktionen `mean` til at beregne gennemsnittet af både x-værdier og y-værdier for hvert datasæt. For at formatere resultaterne med præcis 2 decimaler, skal du bruge Python f-string.
 2. Beregn nu variansen for alle de forskellige sæt af x- og y-værdier ved at bruge `numpy` funktionen `var`. Print det med tre decimaler.
 
+### Tutorials
+Som det sidste skal i gennemgå disse 2 tutorials. Den ene om Numpy, den anden om Matplotlib. Jeg (Claus) har været igennem dele af materialet i mine gennemgange af stoffet i klassen, så i kan se det som en slags "opfrisker". Ud over det går begge tutorials lidt mere i dybden med begge biblioteker. 
 
-### Øv Numpy
-
-* [Python Plotting With Matplotlib (Guide)
-](https://realpython.com/python-matplotlib-guide/)
+* [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+* [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
