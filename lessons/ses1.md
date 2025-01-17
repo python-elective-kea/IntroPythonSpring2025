@@ -74,7 +74,7 @@ De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug de
 ### Materialer (samlet oversigt over alle materialer på denne side)
 
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
-* [Kodeeksempler fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24)
+* [Kodeeksempler fra undervisningen](https://github.com/python-elective-kea/spring2025-code-examples-from-teachings/ses1)
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 #### Øvelser
@@ -86,9 +86,9 @@ Lav følgende 2 quizer om strings:
 
 Quizerne indeholder forklaringer og links til hvor i kan læse om emnerne, så hvis der er spørgsmål i ikke kan svare på vil i kunne læse om det i det tilhørende materiale. 
 
-* [Strings1](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python1/exercises/string1.ipynb) (30 min) [(løsninger)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python1/exercises/solutions)
-* [Strings2](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python1/exercises/string2.ipynb) (30 min) [(løsninger)](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python1/exercises/solutions)
+* [Strings1](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python1/exercises/string1.ipynb) (30 min - 1 time) [(løsninger)](https://github.com/python-elective-kea/spring2025-code-examples-from-teachings/ses1/exercises/solutions)
+* [Strings2](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python1/exercises/string2.ipynb) (30 min - 1 time) [(løsninger)](https://github.com/python-elective-kea/spring2025-code-examples-from-teachings/ses1/exercises/solutions)
 
-Den sidste øvelse bliver en gennegående øvelse de næste 4 mandage. Det er derfor ikke meningen at i skal lave den hele inden næste uge. og du bestemmer selv hvor meget du vil lave i denne uge.     
+Den sidste øvelse bliver en gennegående øvelse de næste 4 uger. Det er derfor ikke meningen at i skal lave den hele inden næste uge, og du bestemmer selv hvor meget du vil lave i denne uge.     
 
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
