@@ -66,16 +66,20 @@ I skal også lære at bruge [numpy](https://numpy.org/doc/stable/user/absolute_b
 ### Øvelser
 
 ### Øv 1: Numpy, Matplotlib og linær regressions analyse
-Start med at downloade disse fire filer:
+Start med at downloade disse fire filer fra et meget berømt dataset (i hvert tilfælde inden for Data Science miljøet):
 * [Data 1](../assests/data1.tsv), [Data 2](../assests/data2.tsv), [Data 3](../assests/data3.tsv), og [Data 4](../assests/data4.tsv).    
-Formatet er _.tsv_ og det står for _tab seperated values_. Som du senere vil finde ud af grunden til er disse dataset berømte! Hver fil har to kolonner (adskilt med tab-tegnet). Den første kolonne er x-værdier, og den anden kolonne er y-værdier.    
+Formatet er _.tsv_ og det står for _tab seperated values_. Hver fil har to kolonner (adskilt med tab-tegnet). Den første kolonne er x-værdier, og den anden kolonne er y-værdier.    
 
-Det er ok bare at højreklikke på filerne og derefter sige ja til at downloade dem, men det er sjovere at bruge python til det. Men du bestemmer.     
+Det er ok at højreklikke på filerne og derefter sige ja til at downloade dem, men det er sjovere at bruge python til det. Men du bestemmer.     
 
 **Og nu til selve øvelsen:**    
 
-1. Brug `numpy` funktionen `mean` til at beregne gennemsnittet af både x-værdier og y-værdier for hvert datasæt. For at formatere resultaterne med præcis 2 decimaler, skal du bruge Python f-string.
-2. Beregn nu variansen for alle de forskellige sæt af x- og y-værdier ved at bruge `numpy` funktionen `var`. Print det med tre decimaler.
+1. Brug `numpy` funktionen [`mean`](https://numpy.org/doc/stable/reference/generated/numpy.mean.html) til at beregne gennemsnittet af både x-værdier og y-værdier for hvert datasæt. For at formatere resultaterne med præcis 2 decimaler, skal du bruge Python f-string.
+2. Beregn nu variansen for alle de forskellige sæt af x- og y-værdier ved at bruge `numpy` funktionen [`var`](https://numpy.org/doc/stable/reference/generated/numpy.var.html). Print det med tre decimaler.
+3. Brug NumPy til at beregne [Pearsons korrelation](https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html) mellem x- og y-værdierne for alle fire datasæt. Print resultatet med tre decimaler.
+
+
+
 
 ### Tutorials
 Som det sidste skal i gennemgå disse 2 tutorials. Den ene om Numpy, den anden om Matplotlib. Jeg (Claus) har været igennem dele af materialet i mine gennemgange af stoffet i klassen, så i kan se det som en slags "opfrisker". Ud over det går begge tutorials lidt mere i dybden med begge biblioteker. 
