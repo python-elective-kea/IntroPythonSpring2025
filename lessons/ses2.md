@@ -47,7 +47,7 @@ Så snakker vi kort om hvorfor der er 4 datastrukture i python, og hvad de kan b
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../exercises/ses2/list1.ipynb))
+* [list1](../exercises/ses2/list1.ipynb)
 * [list2](../exercises/ses2/list2.ipynb)
 * [Dictionary](../exercises/ses2/dict.ipynb)
 * [Set](../exercises/ses2/set.ipynb)
