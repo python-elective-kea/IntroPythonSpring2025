@@ -29,8 +29,8 @@ Og så skal du se denne 5 minuters video om at lære noget nyt:
 
 Du må også gerne have kigget disse to sider igennem:
 
-* [Om dette valgfag](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/prep/lessons/about_this_elective.md)
-* [Eksamen i Introduktion til Python - Forår 2025](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/prep/lessons/exam.md)
+* [Om dette valgfag](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/main/lessons/about_this_elective.md)
+* [Eksamen i Introduktion til Python - Forår 2025](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/main/lessons/exam.md)
 
 Du er velkommen til at starte på denne Tutorial **(men det er ikke et krav)**.    
 Vi kommer til at bruge den som en slags overordnet øvelse de første 3-4 gange af undervisningen    
