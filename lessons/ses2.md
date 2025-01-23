@@ -10,7 +10,7 @@ I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil ar
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
 - Kende til de vigtigste forskelle mellem lister, tuples, sets og dictionaries
-- 
+- Kunne oprette lister vha. list comprehensions
 
 ## Forberedelse
 ---
