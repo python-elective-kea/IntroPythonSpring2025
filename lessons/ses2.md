@@ -98,7 +98,7 @@ Hint: A list is a collection of the same type of data, a tuple is a record (e.g.
 
 ### List & Tuples, Set, Dict øvelser
 ---
-* [list1](../exercises/ses2/list1.ipynb))
+* [list1](../exercises/ses2/list1.ipynb)
 * [list2](../exercises/ses2/list2.ipynb)
 * [Dictionary](../exercises/ses2/dict.ipynb)
 * [Set](../exercises/ses2/set.ipynb)
