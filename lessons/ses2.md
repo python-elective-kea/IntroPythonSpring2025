@@ -35,48 +35,28 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 * [10 Python Comprehensions You SHOULD Be Using](https://www.youtube.com/watch?v=twxE0dEp3qQ)
 
 > PROMPT: "I would like to have some exercises in python covering List Comprehensions. Each exercise should include one of the following topics: basic comprehension, if conditions, if/else conditions, nested loops, caling functions inside a comprehension. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me."
-<!--
-* Skimmed denne artikkel: [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/) (15 min)
-* Skimmed denne artikkel: [Sets in Python](https://realpython.com/python-sets/) (15 min)
-* Skimmed denne artikkel: [Dictionaries in Python](https://realpython.com/python-dicts/) (15 min)
 
-For at checke om du har den rigtige forståelse skal du lave disse quizes:
-
-* [Python Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/) (15 min) 
-* [Python Sets Quiz](https://realpython.com/quizzes/python-sets/) (15 min)
-* [Python Dictionaries Quiz](https://realpython.com/quizzes/python-dicts/)(15 min)
--->
 ## Dagens indhold
 ---
 
-Vi starter med at klone øvelsesrepositoriet og lave en ny branch.    
-Herefter kigger vi på evt. problemer fra sidst vedr. stringøvelserne.
+Vi starter med denne:
 
-Herefter laver vi denne: 
-
-* [opvarmningsøvelse](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/warmup/warm_up.ipynb) 
+* [opvarmningsøvelse](../exercises/ses2/ses2_warm_up.ipynb) 
 
 Så snakker vi kort om hvorfor der er 4 datastrukture i python, og hvad de kan bruges til. 
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list1.ipynb)
-* [list2](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list2.ipynb)
-* [Dictionary](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/dict.ipynb)
-* [Set](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/set.ipynb)
-
-## Hjemmearbejde
----
-* Du skal lave øvelserne herunder færdige. 
-
+* [list1](../exercises/ses2/list1.ipynb))
+* [list2](../exercises/ses2/list2.ipynb)
+* [Dictionary](../exercises/ses2/dict.ipynb)
+* [Set](../exercises/ses2/set.ipynb)
 
 ## Materialer
 ---
 
-* [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
-* [How to Use sorted() and .sort() in Python](https://realpython.com/python-sort/)
-* [Kodeeksempler fra undervisningen](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python2)
-
+* [Kodeeksempler fra undervisningen](../exercises/ses2/codeexamples.ipynb)
+* [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
 ---
@@ -118,10 +98,10 @@ Hint: A list is a collection of the same type of data, a tuple is a record (e.g.
 
 ### List & Tuples, Set, Dict øvelser
 ---
-* [list1](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list1.ipynb)
-* [list2](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/list2.ipynb)
-* [Dictionary](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/dict.ipynb)
-* [Set](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/python2/exercises/set.ipynb)
+* [list1](../exercises/ses2/list1.ipynb))
+* [list2](../exercises/ses2/list2.ipynb)
+* [Dictionary](../exercises/ses2/dict.ipynb)
+* [Set](../exercises/ses2/set.ipynb)
 
 #### quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
