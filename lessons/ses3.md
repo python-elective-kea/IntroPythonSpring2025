@@ -15,7 +15,7 @@
 * Kunne lave kode der gør brug af pythons ```requests``` module.
 
 ## Forberedelse
-Se følgende videoer om moduler og pakker,, og læs dokumentet om at arbejde med filer.    
+Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med filer.    
 
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
@@ -34,7 +34,7 @@ Vi starter med en lille [quiz](https://github.com/ITAKEA/kode_fra_undervisning_e
 
 Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
 
-Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```, og til sidst modulet `pandas` som vi skal bruge til statestikberegninger og visualisering fremover.   
+Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
 
 ## Materialer
@@ -44,7 +44,6 @@ Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```, o
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
 * [Python Module Index](https://docs.python.org/3/py-modindex.html) 
 * [Requests: HTTP for Humans™](https://docs.python-requests.org/en/latest/)
-* [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
 
 ## Øvelser
 
