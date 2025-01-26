@@ -32,7 +32,7 @@ Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med 
 ## Dagen i dag
 Vi starter med en lille [quiz](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/opvarmning/moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.    
 
-Herefter laver vi en [øvelse/demo](https://github.com/ITAKEA/kode_fra_undervisning_e24/tree/master/python3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
+Herefter laver vi en [øvelse/demo](../exercises/ses3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
 
 Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
