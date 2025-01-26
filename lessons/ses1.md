@@ -74,7 +74,7 @@ De sprogelementer vi kommer til at arbejde med i dag kan i læse om her (brug de
 ### Materialer (samlet oversigt over alle materialer på denne side)
 
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
-* [Kodeeksempler fra undervisningen](https://github.com/python-elective-kea/spring2025-code-examples-from-teachings/ses1)
+* [Kodeeksempler fra undervisningen](../exercises/ses1/)
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 #### Øvelser
