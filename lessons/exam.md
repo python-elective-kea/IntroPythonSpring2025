@@ -14,9 +14,10 @@ Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
 - De sidste 2 uger af dette semeter skal du bruge på dit projekt.
 
 ## Mundtlig eksamen
-- Varighed: 15 minutter (inklusiv votering)
+- Varighed: 30 minutter (inklusiv votering)
 - 10 minutter: Præsentation af dit projekt
-- 5 minutter: Votering og karaktergivning og feedback
+- 10 minutter: Spørgsmål fra eksaminator 
+- 10 minutter: Votering, karaktergivning og feedback
 
 ## Bedømmelseskriterier
 Du vil blive bedømt på:
@@ -26,8 +27,8 @@ Du vil blive bedømt på:
 4. Præsentationsevner og evnen til at forklare din kode
 
 ## Aflevering
-- Projektkode skal pushes til et GitHub-repository
-- Repository skal indeholde en readmefil med relevant info vedrørende dit projekt. 
+- Du skal aflevere en synopsis. 
+    - Dvs. en oversigt eller agenda for hvad du vil snakke om til din mundtlige eksamen. 
 
 ## Karaktergivning
-Eksamen bedømmes efter 7-trinsskalaen, og er en kombination af en bedømmelse af den afleverede opgave (projekt) og din evne til at forklare den og forholde dig til projektet ved den mundtlige eksamen. 
+Eksamen bedømmes efter 7-trinsskalaen.
