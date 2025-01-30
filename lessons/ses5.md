@@ -52,4 +52,4 @@ Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra st
 ### Øvelser
 #### Øv 1: Text embeddings
 Se videoen [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94) **(TODO: LAV egen video)**    
-Og lav en python fil som 
+Herefter brug [Mistral.ai embeddings](https://docs.mistral.ai/api/#tag/agents/operation/agents_completion_v1_agents_completions_post) (mistral-embed) til at lave det samme som i videoen, men nu skal du kontakte API´et gennem python kode du selv laver. 

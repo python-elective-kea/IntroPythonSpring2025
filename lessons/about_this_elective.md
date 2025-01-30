@@ -13,7 +13,11 @@ Denne artikkel om brug af AI i forbindelse med softwareudvikling kan være god a
 
 * [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 
-Til alle undervisningagnge vil det være en god ide at tage headphones med da i kommer til at se og lytte individuelt til videoer. 
+Og disse råd til brug af LLM i jeres læringsprocess er også gode at læse:
+
+* [Råd til god læring med LLM](../materialer/ses2/godLLM.md)
+
+Til alle undervisningange vil det være en god ide at tage headphones med da i kommer til at se og lytte individuelt til videoer. 
 
 
 ## Læringsmål
@@ -47,6 +51,5 @@ I kurset bruger vi følgende software.
 * [Python](https://www.python.org/downloads/)
 * [VS Code](https://code.visualstudio.com/download) 
 * Git & Github
-* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt, men demoer i undervisning gøres primært vha. Mistral.ai:w
-´s API)
+* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt, men demoer i undervisning gøres primært vha. Mistral.ai´s API)
 * Headphones (der er en del videoer i forbindelse med undervisningen og dem skal i kunne se uden at forstyrre alle andre i klassen).
