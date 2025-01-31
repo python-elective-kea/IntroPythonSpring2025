@@ -41,8 +41,6 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 
 Vi starter med denne:
 
-* [opvarmningsøvelse](../exercises/ses2/ses2_warm_up.ipynb) 
-
 Så snakker vi kort om hvorfor der er 4 datastrukture i python, og hvad de kan bruges til. 
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
