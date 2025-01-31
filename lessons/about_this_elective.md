@@ -51,5 +51,5 @@ I kurset bruger vi følgende software.
 * [Python](https://www.python.org/downloads/)
 * [VS Code](https://code.visualstudio.com/download) 
 * Git & Github
-* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt, men demoer i undervisning gøres primært vha. Mistral.ai´s API)
+* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt, men demoer i undervisning gøres primært vha. Mistral.ai´s API.)
 * Headphones (der er en del videoer i forbindelse med undervisningen og dem skal i kunne se uden at forstyrre alle andre i klassen).
