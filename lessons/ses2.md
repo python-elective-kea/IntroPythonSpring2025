@@ -38,10 +38,10 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 
 ## Dagens indhold
 ---
-
-Vi starter med denne:
-
-Så snakker vi kort om hvorfor der er 4 datastrukture i python, og hvad de kan bruges til. 
+Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus på:
+* Hvad de forskellige datastrukturer bruges til. 
+* Slicing og manipulation
+* list comprehensions. 
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
@@ -57,8 +57,25 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
+
 ---
-#### Ex 0.1: Slicing
+### 1: Is it a tuple or a list?
+---
+The following data should be presented as either a list or a tuple, or as a combination of both.      
+Your job is to choose the right one.     
+Hint: A list is a collection of the same type of data, a tuple is a record (e.g. in a database a **record** is called a **row**)     
+
+1. Claus, 51, male, clbo@kea.dk, 31011970-1313
+2. Bmw, Toyota, Hyundai, Skoda, Fiat, Volvo
+3. Claus, Henning, Torben, Carl, Tine
+4. 'Hello', 'World', 'Huston', 'we', 'are', 'here'
+5. Rolling Stones, Goats Head Soup, 31 August 1973, 46:56
+6. 40.730610, -73.935242, New York City, NY, USA; 31.739847, 65.755920, Kandahar, Kandahar Province, Afghanistan;
+
+<hr>
+
+---
+#### Ex 2: Slicing
 ---
 By using the slicing syntax change the following collections.
 
@@ -77,22 +94,46 @@ After slicing:
 
 Figure out more on your own and practice this a lot!    
 
-   <hr>
+<hr>
 
-### Ex 1.1: Is it a tuple or a list?
 ---
-The following data should be presented as either a list or a tuple, or as a combination of both.      
-Your job is to choose the right one.     
-Hint: A list is a collection of the same type of data, a tuple is a record (e.g. in a database a **record** is called a **row**)     
+#### Ex. 3: Comprehensions
+---
 
-1. Claus, 51, male, clbo@kea.dk, 31011970-1313
-2. Bmw, Toyota, Hyundai, Skoda, Fiat, Volvo
-3. Claus, Henning, Torben, Carl, Tine
-4. 'Hello', 'World', 'Huston', 'we', 'are', 'here'
-5. Rolling Stones, Goats Head Soup, 31 August 1973, 46:56
-6. 40.730610, -73.935242, New York City, NY, USA; 31.739847, 65.755920, Kandahar, Kandahar Province, Afghanistan;
-   
-   <hr>
+Alfabet List Comprehensions
+
+Lav en liste af store bogstaver i det engelske alfabet
+
+Lav en liste af store bogstaver fra det engelske alfabet, men udelad 4 med Unicode-kodepunktet enten 70, 75, 80, 85.
+
+Lav en liste af store bogstaver fra det engelske alfabet, men udelad hvert andet bogstav mellem F & O
+
+---
+#### Ex 4: Tøjliste Comprehension
+---
+
+Udfra disse 2 lister:
+
+````
+colors = ['Black', 'White']
+sizes = ['s', 'm', 'l', 'xl']
+````
+ved hjælp af en list comprehension, lav en liste, der indeholder:
+
+[(‘Black’, ‘s’), (‘Black’, ‘m’), (‘Black’, ‘l’), (‘Black’, ‘xl’), (‘White’, ‘s’), (‘White’, ‘m’), (‘White’, ‘l’), (‘White’, ‘xl’)]
+
+Hvis tuple-parret er i følgende liste, skal det ikke tilføjes til den genererede list comprehension.
+
+soldout = [('Black', 'm'), ('White', 's')]
+
+---
+#### Ex 5: List Comprehension øvelser
+---
+* Lav en liste af lige tal fra 0 til 20.
+* Lav en liste af kvadrater af tal fra 1 til 10.
+* Lav en liste af alle vokaler i en given streng.
+* Lav en liste af fælles elementer i to givne lister.
+* Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
 
 ### List & Tuples, Set, Dict øvelser
 ---
