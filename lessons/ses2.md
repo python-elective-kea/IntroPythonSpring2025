@@ -45,7 +45,7 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../materialer/ses2/list1.ipynb))
+* [list1](../materialer/ses2/list1.ipynb)
 * [list2](../materialer/ses2/list2.ipynb)
 * [Dictionary](../materialer/ses2/dict.ipynb)
 * [Set](../materialer/ses2/set.ipynb)
@@ -137,7 +137,7 @@ soldout = [('Black', 'm'), ('White', 's')]
 
 ### List & Tuples, Set, Dict øvelser
 ---
-* [list1](../materialer/ses2/list1.ipynb))
+* [list1](../materialer/ses2/list1.ipynb)
 * [list2](../materialer/ses2/list2.ipynb)
 * [Dictionary](../materialer/ses2/dict.ipynb)
 * [Set](../materialer/ses2/set.ipynb)
