@@ -297,12 +297,12 @@ lessons/*.html
 # README.md
 
 exercises/solutions/*
-exercises/ses1/solutions/*
+#exercises/ses1/solutions/*
 exercises/ses2/solutions/*
 exercises/ses3/solutions/*
 exercises/ses4/solutions/*
 
-materialer/ses1/solutions/*
+#materialer/ses1/solutions/*
 materialer/ses2/solutions/*
 materialer/ses3/solutions/*
 materialer/ses4/solutions/*
