@@ -53,7 +53,7 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 ## Materialer
 ---
 
-* [Kodeeksempler og øvelser fra undervisningen](../,aterialer/ses2/)
+* [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
