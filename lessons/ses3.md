@@ -16,7 +16,7 @@
 
 ## Forberedelse
 
-Start med at læse denne [LLM vejledning)(../materialer/ses2/godLLM.md)
+Start med at læse denne [LLM vejledning](../materialer/ses2/godLLM.md)
 
 Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med filer.    
 
