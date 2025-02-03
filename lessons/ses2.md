@@ -45,7 +45,7 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../materialer/ses2/list1.ipynb))
+* [list1](../materialer/ses2/list1.ipynb)
 * [list2](../materialer/ses2/list2.ipynb)
 * [Dictionary](../materialer/ses2/dict.ipynb)
 * [Set](../materialer/ses2/set.ipynb)
@@ -53,7 +53,7 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 ## Materialer
 ---
 
-* [Kodeeksempler og øvelser fra undervisningen](../,aterialer/ses2/)
+* [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
@@ -137,7 +137,7 @@ soldout = [('Black', 'm'), ('White', 's')]
 
 ### List & Tuples, Set, Dict øvelser
 ---
-* [list1](../materialer/ses2/list1.ipynb))
+* [list1](../materialer/ses2/list1.ipynb)
 * [list2](../materialer/ses2/list2.ipynb)
 * [Dictionary](../materialer/ses2/dict.ipynb)
 * [Set](../materialer/ses2/set.ipynb)
