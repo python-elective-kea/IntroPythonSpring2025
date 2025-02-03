@@ -15,6 +15,9 @@
 * Kunne lave kode der gør brug af pythons ```requests``` module.
 
 ## Forberedelse
+
+Start med at læse denne [LLM vejledning)(../materialer/ses2/godLLM.md)
+
 Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med filer.    
 
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
