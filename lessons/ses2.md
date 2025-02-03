@@ -38,25 +38,22 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 
 ## Dagens indhold
 ---
-
-Vi starter med en gennemgang af øvelserne fra sidste uge.      
-Herefter laver vi en opsumering af emnerne for i dag, og kommer til at have fokus på:
-
+Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus på:
 * Hvad de forskellige datastrukturer bruges til. 
 * Slicing og manipulation
 * list comprehensions. 
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../exercises/ses2/list1.ipynb)
-* [list2](../exercises/ses2/list2.ipynb)
-* [Dictionary](../exercises/ses2/dict.ipynb)
-* [Set](../exercises/ses2/set.ipynb)
+* [list1](../materialer/ses2/list1.ipynb))
+* [list2](../materialer/ses2/list2.ipynb)
+* [Dictionary](../materialer/ses2/dict.ipynb)
+* [Set](../materialer/ses2/set.ipynb)
 
 ## Materialer
 ---
 
-* [Kodeeksempler og øvelser fra undervisningen](../exercises/ses2/)
+* [Kodeeksempler og øvelser fra undervisningen](../,aterialer/ses2/)
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
@@ -75,6 +72,7 @@ Hint: A list is a collection of the same type of data, a tuple is a record (e.g.
 5. Rolling Stones, Goats Head Soup, 31 August 1973, 46:56
 6. 40.730610, -73.935242, New York City, NY, USA; 31.739847, 65.755920, Kandahar, Kandahar Province, Afghanistan;
 
+<hr>
 
 ---
 #### Ex 2: Slicing
@@ -96,6 +94,7 @@ After slicing:
 
 Figure out more on your own and practice this a lot!    
 
+<hr>
 
 ---
 #### Ex. 3: Comprehensions
@@ -136,13 +135,12 @@ soldout = [('Black', 'm'), ('White', 's')]
 * Lav en liste af fælles elementer i to givne lister.
 * Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
 
----
 ### List & Tuples, Set, Dict øvelser
 ---
-* [list1](../exercises/ses2/list1.ipynb)
-* [list2](../exercises/ses2/list2.ipynb)
-* [Dictionary](../exercises/ses2/dict.ipynb)
-* [Set](../exercises/ses2/set.ipynb)
+* [list1](../materialer/ses2/list1.ipynb))
+* [list2](../materialer/ses2/list2.ipynb)
+* [Dictionary](../materialer/ses2/dict.ipynb)
+* [Set](../materialer/ses2/set.ipynb)
 
 #### quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
