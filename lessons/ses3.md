@@ -37,13 +37,13 @@ Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med 
 ## Dagen i dag
 <!-- Vi starter med en lille [quiz](../exercises/ses3/opvarmning/moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.   --> 
 
-Herefter laver vi en [øvelse/demo](./materialer/ses3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
+Herefter laver vi en [øvelse/demo](../materialer/ses3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
 
 Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
 
 ## Materialer
-* [Arbejd med filer i Python](materialer/ses3/filer.ipynb)
+* [Arbejd med filer i Python](../materialer/ses3/filer.ipynb)
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
