@@ -73,15 +73,34 @@ I VS Code kan vi oprette en fil `.env` hvor i vi kan gemme vores environment var
 
 * ignorer denne `.env` fil i din `.gitignore` fil
 
-Læs nu denne environmen variabel i din notebook fil fra før
+Læs nu denne environmen variabel fra din .env fil og brug den i din notebook i stedet for at skrive den dirrekte i en celle.
 
 Til dette skal du bruge modulet `python-dotenv`.
 
 ### Øv 2: Subprocess
+Til denne øvelse skal du bruge subprocess modulet.     
+[The subprocess Module: Wrapping Programs With Python](https://realpython.com/python-subprocess/)
 
-### Øv 3: JSON
+* Clone dette respository: https://github.com/python-elective-kea/spring2024.git
+* åben her etfer `index.html` filen fra `docs` mappen i din browser.
+
+Det hele skal selvfølgelig kodes, ikke noget med feks. manuelt at klikke på index.html filen.
+
+### Øv 3: JSON og Github API
+I denne øvelse skal du oprette et repository på Github gennem [Githubs API](https://api.github.com/). 
+
+
+1. Opret en Personal Access Token:     
+Først skal du oprette en ‘Personal Access Token (classic)’ på GitHub.     
+Gå til dine indstillinger på GitHub, vælg ‘Developer settings’, og derefter ‘Personal access tokens’.     
+Klik på ‘Generate new token’, og sørg for at vælge de nødvendige omfang (scopes) for din token.     
+For at oprette et repository som en almindelig bruger, skal du mindst have ‘repo’ adgang.    
+     
 
 ### Øv 4: CSV
+
+* Læs [reviews.csv](/materialer/ses3/reviews.csv) filen vha. csv modulet.    
+* Udskriv reviews kollonen (kun reviews kollonnen).
 
 ### Øv 5: Download filer
 I denne øvelse skal du lave et script som kan læse filer fra nettet og gemme dem i en fil i en mappe på din computer.
