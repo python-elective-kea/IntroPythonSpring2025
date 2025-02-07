@@ -68,4 +68,4 @@ Bemærk: Hvis du ikke kan slette, feks pga admin rettigheder skal du kigge på d
 Du skal først se følgende tutorial: [Interacting With REST APIs and Python](https://realpython.com/courses/interacting-rest-apis-python/)    
 (Du skal kun se den gratis del af videoerne (1-5))
 
-Herefter skal du forsøge at oprette et repository vha pythons requests modul.
+Herefter skal du oprette et github repository ved hjælp af pythons requests modul.
