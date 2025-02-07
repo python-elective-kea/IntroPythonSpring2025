@@ -15,6 +15,9 @@
 * Kunne lave kode der gør brug af pythons ```requests``` module.
 
 ## Forberedelse
+
+Start med at læse denne [LLM vejledning](../materialer/ses2/godLLM.md)
+
 Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med filer.    
 
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
@@ -32,15 +35,15 @@ Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med 
     * Sørg for at forstå starten af hver afsnit i denne artikkel. Hen imod slutningen af hvert afsnit bliver det mere og mere detaljeret. Det er fint at i bare har skimmet det, og derved kan finde tilbage til det hvis i får brug for det. Så ... relativ god forståelse af hovedpointerne fra hvert afsnit, og overblik over resten.
 
 ## Dagen i dag
-Vi starter med en lille [quiz](../exercises/ses3/opvarmning/moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.    
+<!-- Vi starter med en lille [quiz](../exercises/ses3/opvarmning/moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.   --> 
 
-Herefter laver vi en [øvelse/demo](./exercises/ses3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
+Herefter laver vi en [øvelse/demo](./materialer/ses3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
 
 Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
 
 ## Materialer
-* [Arbejd med filer i Python](materialer/filer.html)
+* [Arbejd med filer i Python](materialer/ses3/filer.ipynb)
 * [Moduler og pakker i python 1 (egne moduler)](https://youtu.be/miGblWWfsvY) (8:37)
 * [Moduler og pakker i python 2 (indbyggede)](https://youtu.be/sEvWF1YLxXs) (6:12)
 * [Moduler og pakker i python 3 (3. parts)](https://youtu.be/wbEWDsj3vIg) (8:20)
@@ -69,5 +72,4 @@ Hvis i spørger en ven, vil den sikkert foreslå en masse andre moduler (feks. `
 I opfordres til at følge **KISS** designprincippet. **Keep it simple stupid**. Altså start med at lave det så simpelt som overhoved muligt. Lad vær med at ville tilføje alt muligt andet funktionalitet end det der står i kravene, og det der er allemest nødvendigt. 
 
 
-### Øv 2: BeautifulSoup
 
