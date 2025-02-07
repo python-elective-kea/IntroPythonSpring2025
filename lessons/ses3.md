@@ -93,9 +93,9 @@ Det hele skal selvfølgelig kodes, ikke noget med feks. manuelt at klikke på in
 
 ### Øv 4: CSV
 
-* Læs [reviews.csv](/materialer/ses3/reviews.csv) filen vha. csv modulet.    
-* Udskriv reviews kollonen (kun reviews kollonnen).
-
+* Læs [reviews.csv](/materialer/ses3/reviews.csv) filen vha. `csv` modulet.    
+* Udskriv reviews kollonen (kun reviews kollonnen!)
+<!-- 
 ### Øv 5: Download filer
 I denne øvelse skal du lave et script som kan læse filer fra nettet og gemme dem i en fil i en mappe på din computer.
 
@@ -114,6 +114,5 @@ Når det fungerer kan du se at der mangler stylesheets til siden:
 Hvis i spørger en ven, vil den sikkert foreslå en masse andre moduler (feks. `Beautifull Soup`). Det skal i ikke bruge til denne øvelse!
 
 I opfordres til at følge **KISS** designprincippet. **Keep it simple stupid**. Altså start med at lave det så simpelt som overhoved muligt. Lad vær med at ville tilføje alt muligt andet funktionalitet end det der står i kravene, og det der er allemest nødvendigt. 
-
-
+>
 
