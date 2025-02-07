@@ -75,7 +75,7 @@ I VS Code kan vi oprette en fil `.env` hvor i vi kan gemme vores environment var
 
 Læs nu denne environmen variabel i din notebook fil fra før
 
-Til dette skal du bruge modulet ´python-dotenv´.
+Til dette skal du bruge modulet `python-dotenv`.
 
 
 
