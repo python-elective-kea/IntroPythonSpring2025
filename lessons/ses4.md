@@ -6,3 +6,11 @@
 * [SQLite in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=c8yHTlrs9EA&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=48) (10:10)
 * [Requests: HTTP for Humans™](https://requests.readthedocs.io/en/latest/)
 * [Python Requests Module](https://www.w3schools.com/python/module_requests.asp)
+
+Import csv
+import json
+import sqlite3
+
+pip install requests
+import requests
+
