@@ -36,10 +36,11 @@ Se følgende videoer om moduler og pakker, og læs dokumentet om at arbejde med 
 
 ## Dagen i dag
 <!-- Vi starter med en lille [quiz](../exercises/ses3/opvarmning/moduler.ipynb) for at tjekke om i har forstået forberedelsesmaterialet.   --> 
+Vi starter dagen med en kort opsumering af det i har set hjemme inden undervisningen.    
 
 Herefter laver vi en [øvelse/demo](../materialer/ses3/requirements_demo/) der viser hvorfor vi skal bruge `requirements.txt` filen i vores projekter.     
 
-Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
+Så kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 
 
 ## Materialer
@@ -51,6 +52,35 @@ Herefter kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```.
 * [Requests: HTTP for Humans™](https://docs.python-requests.org/en/latest/)
 
 ## Øvelser
+
+### Øv 1: Environment variabler og OS modulet
+Du har set at ved `import os` har adgang til et modul der indeholder en masse funktioner som kan bruges til interaktion og manipulation af fil- og operativsystem.
+
+Vi kommer snart til at skulle bruge **API tokens** i vores kode til 'Authorization' i forhold til forskellige LLM API´er.
+
+Når vi arbejder med Authorization tokens skal de gemmes i environment variables. 
+
+Du skal i første omgang gemme en miljøvariabel i en celle, og læse den samme variable fra en efterfølgende celle.
+
+Når du har styr på det skal vi gemme varablen i en anden fil.
+
+**Gem og læs en environment variabel**
+
+I OS modulet find de funktioner der skriver og læser miljøvariabler.
+
+**.env filer**
+
+I VS Code kan vi oprette en fil **.env** hvor i vi kan gemme vores environment variabler. Denne .env fil kan vi så skrive i  vores .gitignore fil, og derved undgå deling af den hemmelige nøgle på Github.
+
+* Lav en .env fil i roden af dit projekt, og skriv din environment variable i denne fil på formen **API_KEY=1234asdf4w4w**      
+* ignorer denne .env fil i din .gitignore fil
+
+Læs nu denne environmen variabel i din notebook fil fra før.
+
+Til dette skal du bruge modulet ´python-dotenv´.
+
+
+
 
 ### Øv 1: Download filer
 I denne øvelse skal du lave et script som kan læse filer fra nettet og gemme dem i en fil i en mappe på din computer.
