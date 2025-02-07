@@ -64,21 +64,18 @@ Du skal i første omgang gemme en miljøvariabel i en celle, og læse den samme 
 
 Når du har styr på det skal vi gemme varablen i en anden fil.
 
-**Gem og læs en environment variabel**
+* I OS modulet find de funktioner der skriver og læser miljøvariabler, og få det til at virke.
 
-I OS modulet find de funktioner der skriver og læser miljøvariabler.
 
-**.env filer**
+I VS Code kan vi oprette en fil `.env` hvor i vi kan gemme vores environment variabler. Denne `.env` fil kan vi så skrive i vores `.gitignore` fil, og derved undgå deling af den hemmelige nøgle på Github.
 
-I VS Code kan vi oprette en fil **.env** hvor i vi kan gemme vores environment variabler. Denne .env fil kan vi så skrive i  vores .gitignore fil, og derved undgå deling af den hemmelige nøgle på Github.
+* Lav en `.env` fil i roden af dit projekt, og skriv din environment variable i denne fil på formen **API_KEY=1234asdf4w4w**     
 
-* Lav en .env fil i roden af dit projekt, og skriv din environment variable i denne fil på formen **API_KEY=1234asdf4w4w**      
-* ignorer denne .env fil i din .gitignore fil
+* ignorer denne `.env` fil i din `.gitignore` fil
 
-Læs nu denne environmen variabel i din notebook fil fra før.
+Læs nu denne environmen variabel i din notebook fil fra før
 
 Til dette skal du bruge modulet ´python-dotenv´.
-
 
 
 
