@@ -77,9 +77,13 @@ Læs nu denne environmen variabel i din notebook fil fra før
 
 Til dette skal du bruge modulet `python-dotenv`.
 
+### Øv 2: Subprocess
 
+### Øv 3: JSON
 
-### Øv 1: Download filer
+### Øv 4: CSV
+
+### Øv 5: Download filer
 I denne øvelse skal du lave et script som kan læse filer fra nettet og gemme dem i en fil i en mappe på din computer.
 
 **Lav et modul (.py fil) som:**     
