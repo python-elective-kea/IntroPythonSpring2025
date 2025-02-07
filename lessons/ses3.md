@@ -86,16 +86,10 @@ Til denne øvelse skal du bruge subprocess modulet.
 
 Det hele skal selvfølgelig kodes, ikke noget med feks. manuelt at klikke på index.html filen.
 
-### Øv 3: JSON og Github API
-I denne øvelse skal du oprette et repository på Github gennem [Githubs API](https://api.github.com/). 
+### Øv 3:Requests, json og Github API
 
+* [Lav denne tutorial](../materialer/ses3/tutorial_github_api.md)
 
-1. Opret en Personal Access Token:     
-Først skal du oprette en ‘Personal Access Token (classic)’ på GitHub.     
-Gå til dine indstillinger på GitHub, vælg ‘Developer settings’, og derefter ‘Personal access tokens’.     
-Klik på ‘Generate new token’, og sørg for at vælge de nødvendige omfang (scopes) for din token.     
-For at oprette et repository som en almindelig bruger, skal du mindst have ‘repo’ adgang.    
-     
 
 ### Øv 4: CSV
 
