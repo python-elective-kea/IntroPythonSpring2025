@@ -1,13 +1,15 @@
 # Tutorial - Github API
 
-Denne tutorial viser dig hvordan du bruger Githubs API til at oprette et repository med en readme, .gitignore og en Licens fil gennem Postman. Opdatere det eksisterende repo, og slette det igen.
+Denne tutorial viser dig hvordan du bruger Githubs API til at oprette et repository med en readme, .gitignore og en License fil, opdatere det eksisterende repo, og slette det igen. Dette sker først gennem Postman og herefter vha. python og dets `requests` modul.
+
+Du kan godt springe Postman delene over hvis du føler dig velbevandret i disse dicipliner, og gå dirrekte til den sidste del omhandlende `requests`. 
 
 ## Tutorial:
 
 For at oprette et nyt repository i en organisation på GitHub gennem API'en og postman, skal du følge disse trin: 
 
 1. **Opret en Personal Access Token:** Først skal du oprette en 'Personal Access Token (classic)' på GitHub. Gå til dine indstillinger på GitHub, vælg 'Developer settings', og derefter 'Personal access tokens'. 
-Klik på 'Generate new token', og sørg for at vælge de nødvendige omfang (scopes) for din token. For at oprette et repository som en almindelig bruger, skal du mindst have 'repo' omfang.
+Klik på 'Generate new token', og sørg for at vælge de nødvendige omfang (scopes) for din token. For at oprette et repository som en almindelig bruger, skal du mindst have 'repo' adgang, men det er også en god ide at have delete rettigheder.
 2. **Konfigurer din anmodning i Postman:**
     - Åbn Postman og opret en ny anmodning.
     - Vælg 'POST' som anmodningstype.
@@ -18,8 +20,8 @@ Klik på 'Generate new token', og sørg for at vælge de nødvendige omfang (sco
     
     ```
     {
-        "name": "det-store-gruppe-repo",
-        "description":"Dette er min gruppes første repo!",
+        "name": "intro_til_python",
+        "description":"Demo repo til Github api øvelse",
         "private": false,
         "auto_init": true,
         "gitignore_template": "Python",
@@ -63,13 +65,7 @@ Bemærk: Hvis du ikke kan slette, feks pga admin rettigheder skal du kigge på d
 
 ## Brug githubs api via Python og `requests`    
 
-1. Opret først en ny python fil (.py eller .ipynb) i VScode. 
-2. under "Source Control" ikonet i venstre side af VSCode klick på "Publish to Github" 
-3. Nu skulle du kunne se det nye repository på Github. 
-
-Dette svarer til hvad du gjorde i første del af denne øvelse. Der er altså nogen der kodet et plugin til VSCode og gemt den funktionalitet du lige har arbejdet med  bag nogle blå knapper.     
-
-Du skal nu se følgende tutorial: [Interacting With REST APIs and Python](https://realpython.com/courses/interacting-rest-apis-python/)    
+Du skal først se følgende tutorial: [Interacting With REST APIs and Python](https://realpython.com/courses/interacting-rest-apis-python/)    
 (Du skal kun se den gratis del af videoerne (1-5))
 
-Herefter skal du nu vha. Python simpulere det flow du lige har brugt i VSCode. Det bliver måske ikke helt så brugervenligt og du har ikke et GUI lag oven over, men så lang tid at du bare får de forskellige trin til at virke, så er det godt.
+Herefter skal du forsøge at oprette et repository vha pythons requests modul.
