@@ -47,7 +47,7 @@ Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra st
 * [Usage Guide](https://docs.trychroma.com/guides)
 
 **Teoretisk bagrund**
-* [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
+* [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M) (27:13)
 
 ### Øvelser
 #### Øv 1: Text embeddings
