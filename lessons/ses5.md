@@ -1,5 +1,10 @@
 # Introduktion til Large Language Models (LLM) i Python     
-Formålet med dagens emner er at give dig et overblik over hvordan vi kan arbejde med LLM´er som en inkoorpereret del af vores applikationer. Vi vil først få styr på et par grundlæggende koncepter som Transformers, Embeddings, RAG, Agents. Til at kode vores applikationer som gør brug af disse elementer skal vi bruge et framework som hedder **Langchain**. Dette framework kommer du også til at lege med idag.     
+Formålet med dagens emner er at give dig et overblik over hvordan vi kan arbejde med LLM´er som en inkoorpereret del af dine applikationer.     
+I skal som udgangspunkt have styr på nogle grundlæggende begreber som Transformers, Embeddings, RAG, Agents, og i det hele taget på et overordnet plan hvordan LLM´er fungerer.  
+
+
+
+
 Og ikke mindst, så hedder valgfaget jo **Introduktion til python**, så vi kommer også til at bruge en del tid på at forstå den kode vi skriver eller kopierer fra tutorials eller ChatGpt. 
 
 ## Læringsmål
@@ -25,17 +30,16 @@ Formålet er at give dig en forståelse for hvad Retrieval-Augmented Generation 
 Embeddings er en betegnelse for modeller der har til formål at omdanne ord, sætninger eller dokumenter til vektore (lister af tal). 
 
 ## Dagen i dag
-Dagen i dag er tilrettelagt som selvstudie. I skal følge planen herunder fra start til slut. Materialet ligger på Fronter. Om I har bestået den obligatoriske opgave nummer 2, vil være afhængigt af om I har åbnet dokumenterne eller ikke, klikket på linkene og afleveret det der skal afleveres (jeg kan se om I har åbnet dokumenterne i Fronters statistik).
-
+Denne uges materiale, øvelser og undervisningssessioner er tænkt som en slags overblik over de elementer vi skal bruge til at lave RAG systemer.    
+ 
 
 ## Materiale
-* [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-* [RAG Explained](https://www.youtube.com/watch?v=qppV3n3YlF8) (Ikke så god)
-* [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M) (BEDST)
-* [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI)
-* [What is Agentic RAG?](https://www.youtube.com/watch?v=0z9_MhcYvcY)
+* [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (45:00)      
+<!-- * [RAG Explained](https://www.youtube.com/watch?v=qppV3n3YlF8) (Ikke så god) -->
+* [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M) (6:35)
+* [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI) (12:28)
+* [What is Agentic RAG?](https://www.youtube.com/watch?v=0z9_MhcYvcY) (5:41)
 * [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94)
-* [What is LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)
 
 <!-- * [Langchain Quickstart](https://github.com/langchain-ai/langchain/blob/72c8b3127dfaa5c68ef0d66cdb934b785bdfaa29/docs/docs/use_cases/graph/quickstart.ipynb) 
 * [Langchain & Neo4j: Query Your Graph Database in Natural Language](https://www.youtube.com/watch?v=Wg445gThtcE)
