@@ -16,7 +16,7 @@ Her er 2 resourcer som forklare jer det grundlæggende ved klasser og objekter i
 * [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes/)
 
 ### Database: Sqllite
-I python er det selvfølgelig muligt at interagerer med forskellige databaser. En ofte brugt en af typen er den som hedder Sqlite. Den føægende video er en beskrivelse af hvordan i bruger den.
+I python er det selvfølgelig muligt at interagerer med forskellige databaser. En ofte brugt en af typen er den som hedder Sqlite. Den følgende video er en beskrivelse af hvordan i bruger den.
 
 * [SQLite in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=c8yHTlrs9EA)(10:10)
 
