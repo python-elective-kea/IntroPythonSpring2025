@@ -28,7 +28,7 @@ Og python dokumentationen til denne type af databaser kan i se her:
 Det sidste emne denne uge er **REST API med Flask**. 
 Flask er et web framework, ligesom det i kender fra tidligere: **Spring Boot**. Dog meget, meget mere simpelt i sin udformning. 
 
-I kan få en kort introduktion til dette frame work her:
+I kan få en kort introduktion til dette framework her:
 
 * [Create A Python API in 12 Minutes](https://www.youtube.com/watch?v=zsYIw6RXjfM) (12:03)
 
