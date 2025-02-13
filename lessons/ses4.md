@@ -24,18 +24,44 @@ Og python dokumentationen til denne type af databaser kan i se her:
 
 * [sqlite3 — DB-API 2.0 interface for SQLite databases](https://docs.python.org/3/library/sqlite3.html)
 
+### REST API med Flask
+Det sidste emne denne uge er **REST API med Flask**. 
+Flask er et web framework, ligesom det i kender fra tidligere: **Spring Boot**. Dog meget, meget mere simpelt i sin udformning. 
+
+I kan få en kort introduktion til dette frame work her:
+
+* [Create A Python API in 12 Minutes](https://www.youtube.com/watch?v=zsYIw6RXjfM) (12:03)
+
+Når i har set denne video skal i lave følgende øvelse:
+
+#### Øvelse: Flask Memebers API
+Kig på følgende diagram og opret et API med Flask der følger disse routes.
+
+![](../materialer/ses4/Hvad_er_et_API.png)
+
+1. I stedet for så lave det med `students` skal i lave det med `members`. 
+2. I skal som udgangspunkt læse [denne liste med dictionaries](https://github.com/ITAKEA/kode_fra_undervisning_e24/blob/master/flask1/data_dict.py) som jeres datakilde.
+1. Når i har fået det til at virke skal Api´et gemme og læse data i en Sqlite database. Det skal være det samme data som i listen, så i skal `INSERT` det i en tabel i databasen (`executemany`) 
+2. Hver Member skal altså have følgende attributter:
+
+``` 
+    id, (primær nøgle og skal auto incrementeres) 
+    first_name, 
+    last_name, 
+    birth_date, 
+    gender, 
+    email, 
+    phonenumber, 
+    address, 
+    nationality,
+    active,
+    github_username
+``` 
+
+3. I skal sørge for at de rigtige http statuskoder returneres med `http responset`.
+4. Og Husk: der er regler for hvad der skal ske i et GET POST, PUT, PATCH og DELETE request. De regler skal i følge. Her er det helt ok at spørge en [LLM](https://chat.mistral.ai/chat) om disse regler, men sørg for at skrive koden selv!
+5. I skal også sørge for at fange eventuelle fejl, som et forkert id, forkert json i body osv.
 
 
-**Ideer**
-* [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
-* [SQLite in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=c8yHTlrs9EA&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=48) (10:10)
-* [Requests: HTTP for Humans™](https://requests.readthedocs.io/en/latest/)
-* [Python Requests Module](https://www.w3schools.com/python/module_requests.asp)
-
-Import csv
-import json
-import sqlite3
-
-pip install requests
-import requests
-
+## Obligatorisk opgave
+Når du er færdig med dette skal du skal du afkrydse på [Fronter](https://kea-fronter.itslearning.com/plans/courses/7061/plan/115819/element/1360507?BackDestination=0&BackData=%7B%22BackDestination%22%3A%220%22%2C%22planner2-sb-collapsed%22%3A%22false%22%7D&planner2-sb-collapsed=false)
