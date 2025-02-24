@@ -44,7 +44,7 @@ Vi kommer i dag sammen til at lave en simpel applikation som kan embedde dokumen
 * [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M) (6:35)
 * [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI) (12:28)
 * [What is Agentic RAG?](https://www.youtube.com/watch?v=0z9_MhcYvcY) (5:41)
-* [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94)
+* [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94) (18:40)
 * [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M) (27:13)
 
 <!-- * [Langchain Quickstart](https://github.com/langchain-ai/langchain/blob/72c8b3127dfaa5c68ef0d66cdb934b785bdfaa29/docs/docs/use_cases/graph/quickstart.ipynb) 
@@ -59,7 +59,18 @@ Vi kommer i dag sammen til at lave en simpel applikation som kan embedde dokumen
 -->
 
 ### Øvelser
-#### Øv 1: Text embeddings
+#### Text embeddings
 Du har i forberedelsen til i dag set videoen [OpenAI Embeddings and Vector Databases Crash Course](https://www.youtube.com/watch?v=ySus5ZS0b94). Hvis du ikke selv har prøvet det han viser i videoen skal du gøre det nu.    
-Herefter brug [Mistral.ai embeddings](https://docs.mistral.ai/api/#tag/agents/operation/agents_completion_v1_agents_completions_post) (mistral-embed) til at lave det samme som i videoen, men nu skal du kontakte API´et gennem python kode du selv laver.     
+Herefter brug [Mistral.ai embeddings](https://docs.mistral.ai/api/#tag/agents/operation/agents_completion_v1_agents_completions_post) (mistral-embed) til at lave det samme som i videoen, men nu skal du kontakte API´et gennem python kode du selv laver.  
+I stedet for den database han bruger i videoen skal du bruge [ChromaDB](https://docs.trychroma.com/docs/overview/getting-started). Det er en lokal database og det du har brug for at arbejde med kan du læse om her:
+
+* [Getting Started](https://docs.trychroma.com/docs/overview/getting-started)
+* [Persistent Client](https://docs.trychroma.com/docs/run-chroma/persistent-client)
+
+Du vil lægge mærke til at ChromaDB som default kan embeded dokumenter "af sig selv". Dens Default embeddings model er Sentence Transformers `all-MiniLM-L6-v2`. Det betyder at du faktisk ikke behøver at bruge Mistral eller ChatGpt´s API´er. Prøv at få dit program til at virke med dette deafault set up. 
+
+Læg mærke til at din ChromaDB er gemt som en sqlite3 fil. Prøv at installer Extension `SQLite Viewer`og undersøg dit ChromaDB i gennem det.
+
+<!--
 _(OBS: Du har for 2 uger siden lavet noget tilsvarende da du kontaktede [githubs api med requests modulet](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/main/materialer/ses3/tutorial_github_api.md).)_
+-->
