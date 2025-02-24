@@ -67,4 +67,10 @@ I stedet for den database han bruger i videoen skal du bruge [ChromaDB](https://
 * [Getting Started](https://docs.trychroma.com/docs/overview/getting-started)
 * [Persistent Client](https://docs.trychroma.com/docs/run-chroma/persistent-client)
 
+Du vil lægge mærke til at ChromaDB som default kan embeded dokumenter "af sig selv". Dens Default embeddings model er Sentence Transformers `all-MiniLM-L6-v2`. Det betyder at du faktisk ikke behøver at bruge Mistral eller ChatGpt´s API´er. Prøv at få dit program til at virke med dette deafault set up. 
+
+Læg mærke til at din ChromaDB er gemt som en sqlite3 fil. Prøv at installer Extension `SQLite Viewer`og undersøg dit ChromaDB i gennem det.
+
+<!--
 _(OBS: Du har for 2 uger siden lavet noget tilsvarende da du kontaktede [githubs api med requests modulet](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/main/materialer/ses3/tutorial_github_api.md).)_
+-->
