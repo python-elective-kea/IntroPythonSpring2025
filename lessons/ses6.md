@@ -20,6 +20,12 @@ Se herefter følgende videoer om mere detaljeret brug af Langchain:
 ## Dagens indhold
 I dag gennemgår vi koden fra de 4 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår hvad der sker set ud fra et python perspektiv. Vi vil også have fokus på at forklare de langchain koncepter manden snakker om i videoerne.
 
+Vi starter med at kigge på Vector databaser, som vi skulle have arbejdet med sidste undervisningsgang.
+Vi tager udgangspunkt i denne kode:
+
+* [Vectorstores - Chroma](https://python.langchain.com/docs/integrations/vectorstores/chroma/)
+* [Vectorstores - Chroma - Notebook](../materialer/ses6/chroma.ipynb)
+
 I skal desuden løbende lave mindre øvelser der berører hvert enkelt emne behandlet i videoerne. 
 
 ## Materialer
