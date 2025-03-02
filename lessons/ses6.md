@@ -37,6 +37,13 @@ Vi tager udgangspunkt i denne kode:
 
 ## Øvelser
 
+### Search engine Øvelse
+Du skal bruge Langchin til denne øvelse.
+Kig på en google (eller anden virksomhed) søgning.
+Lav en mockup af de resultater du ser, og lig de nødvendige data i en Vector database.
+Lav herefter en søgning. 
+
+
 ### Lav følgende tutorial    
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/).
 Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
