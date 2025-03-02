@@ -38,7 +38,7 @@ Vi tager udgangspunkt i denne kode:
 ## Øvelser
 
 ### Lav følgende tutorial    
-* [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/) - Vi kommer til at bruge MistralAI versionen i undervisningen.
+* [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/).
 Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
 Formålet er ikke at du bare læser den igennem og får den til at køre. Du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i. 
 
