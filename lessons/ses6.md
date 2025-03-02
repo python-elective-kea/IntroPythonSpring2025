@@ -51,3 +51,10 @@ Formålet er ikke at du bare læser den igennem og får den til at køre. Du ska
 
 ### Lav din egen applikation 
 * Lav din egen applikation som gør brug af alle de elementer vi har været igennem i dag.
+
+### Build an LLM RAG Chatbot With LangChain
+En mulighed (hvis du har mod på mere) er denne tutorial.
+
+* [Build an LLM RAG Chatbot With LangChain](https://realpython.com/build-llm-rag-chatbot-with-langchain/)
+
+Den er ret omfattende og dækker det vi har været igennem plus lidt mere.
