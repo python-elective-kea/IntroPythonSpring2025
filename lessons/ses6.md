@@ -18,7 +18,7 @@ Se herefter følgende videoer om mere detaljeret brug af Langchain:
 * [RAG From Scratch: Part 4 (Generation)](https://www.youtube.com/watch?v=Vw52xyyFsB8) (6:24)
 
 ## Dagens indhold
-I dag gennemgår vi koden fra de 4 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår hvad der sker set ud fra et python perspektiv. Vi vil også have fokus på at forklare de langchain koncepter manden snakker om i videoerne.
+I dag gennemgår vi koden fra de [4 langchain videoer](../materialer/ses6/). Vi vil have fokus på at forklare koden, så i forstår hvad der sker set ud fra et python perspektiv. Vi vil også have fokus på at forklare de langchain koncepter manden snakker om i videoerne.
 
 Vi starter med at kigge på øvelsen fra sidste uge om [Text embeddings](../materialer/ses5/ex-textembeddings/text_embeddings.ipynb)
 
