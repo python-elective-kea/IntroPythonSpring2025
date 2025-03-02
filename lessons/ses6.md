@@ -38,9 +38,9 @@ Vi tager udgangspunkt i denne kode:
 ## Øvelser
 
 ### Search engine Øvelse
-Du skal bruge Langchin til denne øvelse.
-Kig på en google (eller anden virksomhed) søgning.
-Lav en mockup af de resultater du ser, og lig de nødvendige data i en Vector database.
+Du skal bruge Langchain til denne øvelse.    
+Kig på en google (eller anden virksomhed) søgning.    
+Lav en mockup af de resultater du ser, og lig de nødvendige data i en Vector database.    
 Lav herefter en søgning. 
 
 
