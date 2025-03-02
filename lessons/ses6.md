@@ -37,20 +37,20 @@ Vi tager udgangspunkt i denne kode:
 
 ## Øvelser
 
+### Lav din egen applikation 
+Den primære øvelse i dag er at du skal finde en ide til hvordan du praktisk kan bruge de elementer vi har været igennem i dag, i dit eget projekt.     
+Hvis du sidder uden ide til hvad du skal lave kan du lave de følgende øvelser og tutorials. 
+
 ### Search engine Øvelse
 Du skal bruge Langchain til denne øvelse.    
 Kig på en google (eller anden virksomhed) søgning.    
 Lav en mockup af de resultater du ser, og lig de nødvendige data i en Vector database.    
 Lav herefter en søgning. 
 
-
 ### Lav følgende tutorial    
 * [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/).
 Du kan evt. downloade tutorialen som [notebook](https://github.com/langchain-ai/langchain/blob/master/docs/docs/tutorials/chatbot.ipynb) og arbejde med den herfra.     
 Formålet er ikke at du bare læser den igennem og får den til at køre. Du skal vide hvad der foregår, og helst i så mange detaljer som du magter at sætte dig ind i. 
-
-### Lav din egen applikation 
-* Lav din egen applikation som gør brug af alle de elementer vi har været igennem i dag.
 
 ### Build an LLM RAG Chatbot With LangChain
 En mulighed (hvis du har mod på mere) er denne tutorial.
