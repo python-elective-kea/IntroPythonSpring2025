@@ -44,6 +44,7 @@ Hvis du sidder uden ide til hvad du skal lave kan du lave de følgende øvelser 
 ### Search engine Øvelse
 Du skal bruge Langchain til denne øvelse.    
 Kig på en google (eller anden virksomhed) søgning.    
+![](../materialer/ses6/exercises/google_search.png)   
 Lav en mockup af de resultater du ser, og lig de nødvendige data i en Vector database.    
 Lav herefter en søgning. 
 
