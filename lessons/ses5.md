@@ -71,6 +71,8 @@ Du vil lægge mærke til at ChromaDB som default kan embeded dokumenter "af sig 
 
 Læg mærke til at din ChromaDB er gemt som en sqlite3 fil. Prøv at installer Extension `SQLite Viewer`og undersøg dit ChromaDB i gennem det.
 
+### [Løsning](../materialer/ses5/ex-textembeddings/text_embeddings.ipynb)
+
 <!--
 _(OBS: Du har for 2 uger siden lavet noget tilsvarende da du kontaktede [githubs api med requests modulet](https://github.com/python-elective-kea/IntroPythonSpring2025/blob/main/materialer/ses3/tutorial_github_api.md).)_
 -->
