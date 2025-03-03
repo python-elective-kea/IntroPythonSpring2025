@@ -39,6 +39,8 @@ Vi tager udgangspunkt i denne kode:
 
 ### Lav din egen applikation 
 Den primære øvelse i dag er at du skal finde en ide til hvordan du praktisk kan bruge de elementer vi har været igennem i dag, i dit eget projekt.     
+Det kunne feks være det du lavede på 3. semester (så vidt jeg ved har i alle haft et AI projekt der), men nu bare med python, langchain etc.
+
 Hvis du sidder uden ide til hvad du skal lave kan du lave de følgende øvelser og tutorials. 
 
 ### Search engine Øvelse
