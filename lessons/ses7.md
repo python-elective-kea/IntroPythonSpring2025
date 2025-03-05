@@ -13,13 +13,16 @@ I skal se følgende videoer
 
 
 ## Dagen i dag
-Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt concepter der berøres, og de langchain koncepter han snakker om i videoen. 
+Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt koncepter der berøres, og de langchain koncepter han snakker om i videoen. 
 
 ## Materiale
-* [Prompt Engineering: A Practical Example](https://realpython.com/practical-prompt-engineering/)
-* [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
 * [LangChain Hub](https://smith.langchain.com/hub/)
 
 * [RAG from scratch: Part 5 (Query Translation -- Multi Query)](https://www.youtube.com/watch?v=JChPi0CRnDY)
 * [RAG from scratch: Part 6 (Query Translation -- RAG Fusion)](https://www.youtube.com/watch?v=77qELPbNgxA)
+
 ### Øvelser
+* Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
+_(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er jo nærmest en til en hvad i vil kunne tage med til en eksamen.)_  
+
+* [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
