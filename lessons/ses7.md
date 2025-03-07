@@ -38,6 +38,10 @@ Vi gennemgår (som sidst) koden fra de 5 langchain videoer. Vi vil have fokus p�
 * [RAG from scratch: Part 9 (Query Translation -- HyDE)](https://www.youtube.com/watch?v=SaDzIVkYqyY) (4:46)
 * [How to use the MultiQueryRetriever](https://python.langchain.com/docs/how_to/MultiQueryRetriever/)
 
+* [Getting Started with LangSmith (1/7): Tracing](https://www.youtube.com/watch?v=Hab2CV_0hpQ)
+* [Getting Started with LangSmith (2/7): Playground](https://www.youtube.com/watch?v=suJU1VYzy50)
+* [Getting Started with LangSmith (3/7): Prompts](https://www.youtube.com/watch?v=OJUR7Aa5atM)
+
 ### Øvelser
 #### 1. Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
 _(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er nærmest én til én hvad i vil kunne tage med til en eksamen.)_  
