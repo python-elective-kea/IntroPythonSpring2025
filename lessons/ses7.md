@@ -34,10 +34,10 @@ Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus p�
 * [How to use the MultiQueryRetriever](https://python.langchain.com/docs/how_to/MultiQueryRetriever/)
 
 ### Øvelser
-* Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
-_(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er jo nærmest en til en hvad i vil kunne tage med til en eksamen.)_  
+#### Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
+_(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er nærmest én til én hvad i vil kunne tage med til en eksamen.)_  
 
-* [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
+#### [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
 
 #### Analyser denne application [https://madeometer.com/](https://madeometer.com/).
 Hvis i bruger jeres browsers inspect tool vil i blandt andet kunne se at den sender et billede til dette endpoint: https://liafcajrwvaytbcskbwr.supabase.co/functions/v1/analyze-product får den noget ala dette tilbage: 
