@@ -6,7 +6,7 @@ Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
 ## Projektbeskrivelse
 - Projektet skal demonstrere de færdigheder og den viden, du har opnået gennem kurset.
 - Du skal vælge et problem eller en opgave, som du vil løse ved hjælp af Python, og projektet skal enten demonstrere 
-    * integration af LLM i egen applikation.
+    * integration af LLM i egen applikation (RAG).
     * Dataanalyse af et selvalgt dataset.
     * Sprogspecifikke elementer indenfor python. 
 
