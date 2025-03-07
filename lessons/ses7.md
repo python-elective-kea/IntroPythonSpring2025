@@ -20,7 +20,12 @@ Og læse denne artikkel:
 
 
 ## Dagen i dag
-Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt koncepter der berøres, og de langchain koncepter han snakker om i videoen. 
+Vi gennemgår (som sidst) koden fra de 5 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt koncepter der berøres, og de langchain koncepter han snakker om i videoen. 
+
+**Notebooks fra undervisningen:**
+
+* [Rag From Scratch: Query Transformations](../materialer/ses7/rag_from_scratch_5_to_9.ipynb)
+* [MultiQueryRetriever](../materialer/ses7/MultiQueryRetriever.ipynb)
 
 ## Materiale
 * [LangChain Hub](https://smith.langchain.com/hub/)
