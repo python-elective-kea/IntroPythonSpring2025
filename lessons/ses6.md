@@ -4,6 +4,7 @@ Denne uges emne handler om at i skal lære at bruge frameworket **LangChain**. I
 ## Læringsmål
 * Forstå hvilke opgaver et framework som Langchain kan udføre.
 * Forstå konceptet **RAG**
+* Kunne forstå og forklare på et overordnet plan en RAG Pipeline.
 * Forstå koncepterne **Indexing**, **Retrieval**, **Generation** i en RAG sammenhæng
 * Kunne lave basic RAG applikationer med brug af Lanchain og en LLM
 
