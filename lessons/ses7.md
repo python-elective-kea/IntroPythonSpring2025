@@ -24,9 +24,87 @@ Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus p�
 * [Prompt Engineering: A Practical Example](https://realpython.com/practical-prompt-engineering/)
 * [RAG from scratch: Part 5 (Query Translation -- Multi Query)](https://www.youtube.com/watch?v=JChPi0CRnDY)
 * [RAG from scratch: Part 6 (Query Translation -- RAG Fusion)](https://www.youtube.com/watch?v=77qELPbNgxA)
+* [How to use the MultiQueryRetriever](https://python.langchain.com/docs/how_to/MultiQueryRetriever/)
 
 ### Øvelser
 * Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
 _(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er jo nærmest en til en hvad i vil kunne tage med til en eksamen.)_  
 
 * [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
+
+#### Analyser denne application [https://madeometer.com/](https://madeometer.com/).
+Hvis i bruger jeres browsers inspect tool vil i blandt andet kunne se at den sender et billede til dette endpoint: https://liafcajrwvaytbcskbwr.supabase.co/functions/v1/analyze-product får den noget ala dette tilbage: 
+
+````
+{
+    "productName": "Post-it Notes",
+    "country": "USA",
+    "score": 100,
+    "explanation": "Post-it is a brand of stationery products created by 3M Company, which was founded in 1902 in Minnesota, USA. The brand is recognized globally for its sticky notes and other office supplies.",
+    "priceRangeDKK": "50-150 DKK",
+    "brandInfo": {
+        "name": "Post-it",
+        "reputation": "Well-known for quality stationery products",
+        "ultimateOwnerCompany": "3M Company",
+        "countryOfOrigin": "USA",
+        "ultimateOwnerCountry": "USA"
+    },
+    "mainBeneficiary": "USA",
+    "ultimateOwner": "3M Company (USA)",
+    "brandOriginCountry": "USA",
+    "europeanAlternatives": [
+        "Faber-Castell Sticky Notes - A German brand known for high-quality stationery products, owned by Faber-Castell AG.",
+        "Pukka Pad - A UK-based company offering a range of stationery products, owned by Pukka Pad Ltd.",
+        "Leitz Sticky Notes - A German brand providing office supplies, owned by Esselte Group.",
+        "Clairefontaine Sticky Notes - A French brand known for its paper products, owned by Exacompta Clairefontaine.",
+        "Rhodia Sticky Notes - A French brand recognized for its quality paper products, owned by Exacompta Clairefontaine."
+    ],
+    "healthInfo": {
+        "lactoseFree": false,
+        "glutenFree": false,
+        "veganFriendly": false,
+        "allergens": [],
+        "nutritionalHighlights": []
+    },
+    "fullAnalysisResponse": {
+        "id": "chatcmpl-B8PmiNn3PnXzYPIumBZ2pxqN7ibtb",
+        "object": "chat.completion",
+        "created": 1741345440,
+        "model": "gpt-4o-mini-2024-07-18",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "```json\n{\n  \"productName\": \"Post-it Notes\",\n  \"productType\": \"non-food\",\n  \"manufacturingCountry\": \"USA\",\n  \"brandInfo\": {\n    \"name\": \"Post-it\",\n    \"reputation\": \"Well-known for quality stationery products\",\n    \"ultimateOwnerCompany\": \"3M Company\",\n    \"countryOfOrigin\": \"USA\",\n    \"ultimateOwnerCountry\": \"USA\"\n  },\n  \"score\": 100,\n  \"explanation\": \"Post-it is a brand of stationery products created by 3M Company, which was founded in 1902 in Minnesota, USA. The brand is recognized globally for its sticky notes and other office supplies.\",\n  \"priceRangeDKK\": \"50-150 DKK\",\n  \"europeanAlternatives\": [\n    \"Faber-Castell Sticky Notes - A German brand known for high-quality stationery products, owned by Faber-Castell AG.\",\n    \"Pukka Pad - A UK-based company offering a range of stationery products, owned by Pukka Pad Ltd.\",\n    \"Leitz Sticky Notes - A German brand providing office supplies, owned by Esselte Group.\",\n    \"Clairefontaine Sticky Notes - A French brand known for its paper products, owned by Exacompta Clairefontaine.\",\n    \"Rhodia Sticky Notes - A French brand recognized for its quality paper products, owned by Exacompta Clairefontaine.\"\n  ],\n  \"healthInfo\": {\n    \"lactoseFree\": false,\n    \"glutenFree\": false,\n    \"veganFriendly\": false,\n    \"allergens\": [],\n    \"nutritionalHighlights\": []\n  }\n}\n```",
+                    "refusal": null
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 1933,
+            "completion_tokens": 345,
+            "total_tokens": 2278,
+            "prompt_tokens_details": {
+                "cached_tokens": 1152,
+                "audio_tokens": 0
+            },
+            "completion_tokens_details": {
+                "reasoning_tokens": 0,
+                "audio_tokens": 0,
+                "accepted_prediction_tokens": 0,
+                "rejected_prediction_tokens": 0
+            }
+        },
+        "service_tier": "default",
+        "system_fingerprint": "fp_7fcd609668"
+    },
+    "imagePath": null
+}
+````
+
+Hvis du sender et billede via din RAG pipeline får du ikke umiddelbart det samme resultat tilbage. Der mangler en ordenlig promt. (og du mangler evt. også at kunne sende et billede til den model du bruger.)
+
+* Opret en RAG pipeline der med brug af en relevant prompt kan få nogenlunde det samme response tilbage.
