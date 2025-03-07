@@ -20,7 +20,12 @@ Og læse denne artikkel:
 
 
 ## Dagen i dag
-Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt koncepter der berøres, og de langchain koncepter han snakker om i videoen. 
+Vi gennemgår (som sidst) koden fra de 5 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt koncepter der berøres, og de langchain koncepter han snakker om i videoen. 
+
+**Notebooks fra undervisningen:**
+
+* [Rag From Scratch: Query Transformations](../materialer/ses7/rag_from_scratch_5_to_9.ipynb)
+* [MultiQueryRetriever](../materialer/ses7/MultiQueryRetriever.ipynb)
 
 ## Materiale
 * [LangChain Hub](https://smith.langchain.com/hub/)
@@ -32,6 +37,10 @@ Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus p�
 * [RAG from scratch: Part 8 (Query Translation -- Step Back)](https://www.youtube.com/watch?v=xn1jEjRyJ2U) (6:58)
 * [RAG from scratch: Part 9 (Query Translation -- HyDE)](https://www.youtube.com/watch?v=SaDzIVkYqyY) (4:46)
 * [How to use the MultiQueryRetriever](https://python.langchain.com/docs/how_to/MultiQueryRetriever/)
+
+* [Getting Started with LangSmith (1/7): Tracing](https://www.youtube.com/watch?v=Hab2CV_0hpQ)
+* [Getting Started with LangSmith (2/7): Playground](https://www.youtube.com/watch?v=suJU1VYzy50)
+* [Getting Started with LangSmith (3/7): Prompts](https://www.youtube.com/watch?v=OJUR7Aa5atM)
 
 ### Øvelser
 #### 1. Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
