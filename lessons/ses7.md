@@ -10,6 +10,9 @@ Efter denne uge er overstået vil i kunne:
 I skal se følgende videoer
 * [RAG from scratch: Part 5 (Query Translation -- Multi Query)](https://www.youtube.com/watch?v=JChPi0CRnDY) (6:08)
 * [RAG from scratch: Part 6 (Query Translation -- RAG Fusion)](https://www.youtube.com/watch?v=77qELPbNgxA) (5:41)
+* [RAG from scratch: Part 7 (Query Translation -- Decomposition)](https://www.youtube.com/watch?v=h0OPWlEOank) (6:36)
+* [RAG from scratch: Part 8 (Query Translation -- Step Back)](https://www.youtube.com/watch?v=xn1jEjRyJ2U) (6:58)
+* [RAG from scratch: Part 9 (Query Translation -- HyDE)](https://www.youtube.com/watch?v=SaDzIVkYqyY) (4:46)
 
 Og læse denne artikkel:
 
@@ -24,6 +27,10 @@ Vi gennemgår (som sidst) koden fra de 2 langchain videoer. Vi vil have fokus p�
 * [Prompt Engineering: A Practical Example](https://realpython.com/practical-prompt-engineering/)
 * [RAG from scratch: Part 5 (Query Translation -- Multi Query)](https://www.youtube.com/watch?v=JChPi0CRnDY)
 * [RAG from scratch: Part 6 (Query Translation -- RAG Fusion)](https://www.youtube.com/watch?v=77qELPbNgxA)
+* [RAG from scratch: Part 6 (Query Translation -- RAG Fusion)](https://www.youtube.com/watch?v=77qELPbNgxA) (5:41)
+* [RAG from scratch: Part 7 (Query Translation -- Decomposition)](https://www.youtube.com/watch?v=h0OPWlEOank) (6:36)
+* [RAG from scratch: Part 8 (Query Translation -- Step Back)](https://www.youtube.com/watch?v=xn1jEjRyJ2U) (6:58)
+* [RAG from scratch: Part 9 (Query Translation -- HyDE)](https://www.youtube.com/watch?v=SaDzIVkYqyY) (4:46)
 * [How to use the MultiQueryRetriever](https://python.langchain.com/docs/how_to/MultiQueryRetriever/)
 
 ### Øvelser
