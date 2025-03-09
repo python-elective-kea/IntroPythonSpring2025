@@ -22,10 +22,18 @@ Og læse denne artikkel:
 ## Dagen i dag
 Vi gennemgår (som sidst) koden fra de 5 langchain videoer. Vi vil have fokus på at forklare koden, så i forstår præcist hvad der sker. Vi vil også have fokus på at forklare de prompt koncepter der berøres, og de langchain koncepter han snakker om i videoen. 
 
+Vi kommer til at gennemgå noget af det der er i disse videoer:
+
+* [Getting Started with LangSmith (1/7): Tracing](https://www.youtube.com/watch?v=Hab2CV_0hpQ)
+* [Getting Started with LangSmith (2/7): Playground](https://www.youtube.com/watch?v=suJU1VYzy50)
+* [Getting Started with LangSmith (3/7): Prompts](https://www.youtube.com/watch?v=OJUR7Aa5atM)
+
 **Notebooks fra undervisningen:**
 
 * [Rag From Scratch: Query Transformations](../materialer/ses7/rag_from_scratch_5_to_9.ipynb)
 * [MultiQueryRetriever](../materialer/ses7/MultiQueryRetriever.ipynb)
+
+
 
 ## Materiale
 * [LangChain Hub](https://smith.langchain.com/hub/)
@@ -48,7 +56,10 @@ _(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er 
 
 #### 2. [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
 
-#### 3. Analyser denne application [https://madeometer.com/](https://madeometer.com/).
+#### 3. Langsmith Prompt play
+Brug https://smith.langchain.com/prompts/ til at lave en prompts gemme dem og brug `hub.pull("<prompt>")` til at gøre brug af den i en notebook.
+
+#### 4. Analyser denne application [https://madeometer.com/](https://madeometer.com/).
 Hvis i bruger jeres browsers inspect tool vil i blandt andet kunne se at den sender et billede til dette endpoint: https://liafcajrwvaytbcskbwr.supabase.co/functions/v1/analyze-product får den noget ala dette tilbage: 
 
 ````
