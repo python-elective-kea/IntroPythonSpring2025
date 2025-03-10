@@ -51,7 +51,7 @@ Vi kommer til at gennemgå noget af det der er i disse videoer:
 * [Getting Started with LangSmith (3/7): Prompts](https://www.youtube.com/watch?v=OJUR7Aa5atM)
 
 ### Øvelser
-#### 1. Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter vi kigger på nu.    
+#### 1. Arbejd videre på samme projekt som i arbejde på sidste uge, og tilføj de prompt koncepter i har læst om derhjemme.    
 _(Husk at det ikke er spildt arbjede at finde et projekt at arbejde på. Det er nærmest én til én hvad i vil kunne tage med til en eksamen.)_  
 
 #### 2. [Quiz: Practical Prompt Engineering](https://realpython.com/quizzes/practical-prompt-engineering/viewer/)
