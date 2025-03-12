@@ -42,6 +42,32 @@ Afterwards you have to create a script that takes 4 cards as input and checks in
 
 
 ### Øvelser
+
+#### 1. Watson test
+I denne fil [Watson test]() ligger der en lang liste a kort, som ville kunne køres i gennem en watson test.
+
+``` 
+    [
+        (
+            ('A', 2), ('K', 9), (4, 'B'), (7, 'K')
+        ), 
+        (
+            (2, 'A'), ('V', 9), (3, 'C'), (9, 'L')
+        ), 
+    ]
+``` 
+
+Du skal finde ud af:
+
+* Hvor mange set kort der i filen
+* I hvor man af sættene der er brug for at vende: 
+    * alle kort
+    * 3 kort
+    * 2 kort
+    * 1 kort
+* Hvor mange set vil fejle testen
+
+
 #### 1. Apache log file
 I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse på jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
 
