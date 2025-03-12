@@ -45,7 +45,7 @@ Afterwards you have to create a script that takes 4 cards as input and checks in
 ### Øvelser
 
 #### 1. Watson test
-I denne fil [watson_data.py](../materialer/ses8/watson_data.py) ligger der en lang liste a kort, som hver især ville kunne køres i gennem en "Watson test". Systemet er som her:
+I denne fil [watson_data.py](https://raw.githubusercontent.com/python-elective-kea/IntroPythonSpring2025/refs/heads/prep/materialer/ses8/watson_data.py) ligger der en lang liste a kort, som hver især ville kunne køres i gennem en "Watson test". Systemet er som her:
 
 ``` 
     [
