@@ -1,11 +1,5 @@
-# Intermesso - "Back to basics"
-I dag tager vi en "Back to basics" gang, hvor forkus bliver på Python kode og små programmeringsøvelser.
-
-
-
-## Læringsmål
-
-## Forberedelse
+# "Back to basics" - python one liners
+I dag tager vi en "Back to basics" gang, hvor forkus bliver på Python kode og små programmeringsøvelser og Python one liners.
 
 
 ## Læringsmål
@@ -16,6 +10,30 @@ I dag tager vi en "Back to basics" gang, hvor forkus bliver på Python kode og s
 * kunne arbejde med context managers
 * Have forståelse for python virtual environments
 
+
+## Forberedelse
+
+
+
+## Dagen i dag
+
+Vi starter dagen i dag med denne lille test:
+
+Intro: Watson Test
+------------------
+
+Wason-test (Peter Cathcart Wason, 1966).     
+Consider 4 cards, where you can only see one side.      
+On each card there is a number on one side and a letter on the other.     
+Suppose you see the following 4 cards:     
+
+![](../assets/card_chal.png)
+
+Which cards do you need to turn over to determine if the following rule is correct?     
+If there is a vowel on one side, then there is an even number on the other side.     
+
+You get 5 minutes to thinks this through, and then we make some statistics at the black board, about your solutions.
+Afterwards you have to create a script that takes 4 cards as input and checks in the shortest/fastests way if is 'valid' cards or not.
 
 
 
