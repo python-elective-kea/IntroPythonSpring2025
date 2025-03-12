@@ -45,7 +45,7 @@ Afterwards you have to create a script that takes 4 cards as input and checks in
 ### Øvelser
 
 #### 1. Watson test
-I denne fil [Watson test]() ligger der en lang liste a kort, som hver især ville kunne køres i gennem en "Watson test".
+I denne fil [Watson test]() ligger der en lang liste a kort, som hver især ville kunne køres i gennem en "Watson test". Systemet er som her:
 
 ``` 
     [
@@ -59,17 +59,19 @@ I denne fil [Watson test]() ligger der en lang liste a kort, som hver især vill
     ]
 ``` 
 
+Der er en liste med tupler der inderholder 4 kort. Hvert kort er en tuple og det første element i hver tuple er den synlige side af kortet, det andet element er den skjulte side. 
+
 Du skal finde ud af:
 
-* Hvor mange set kort der i filen
-* I hvor man af sættene der er brug for at vende: 
+1. Hvor mange set kort der i filen
+2. I hvor man af sættene der er brug for at vende: 
     * alle kort
     * 3 kort
     * 2 kort
     * 1 kort
-* Hvor mange set vil fejle testen
+3. Hvor mange set vil fejle testen
 
-Prøv så vidt muligt at gøre brug af python "one-liners" til dine løsninger. 
+Det vil nok være enten umuligt eller meget rodet at bruge listcomprehensions til denne øvelse, så almindelige loops er fint. 
 
 #### 1. Apache log file
 I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse på jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
