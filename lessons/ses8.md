@@ -12,17 +12,18 @@ I dag tager vi en "Back to basics" gang, hvor forkus bliver på Python kode og s
 
 
 ## Forberedelse
+Læs og lav følgende tutorial.
 
-
+* [List comprehensions 101](https://mathspp.com/blog/pydonts/list-comprehensions-101)
 
 ## Dagen i dag
 
-Vi starter dagen i dag med denne lille test:
+Vi starter dagen i dag med dette lille spil:
 
 Intro: Watson Test
 ------------------
 
-Wason-test (Peter Cathcart Wason, 1966).     
+<small><i>Wason-test (Peter Cathcart Wason, 1966)</i></small>    
 Consider 4 cards, where you can only see one side.      
 On each card there is a number on one side and a letter on the other.     
 Suppose you see the following 4 cards:     
