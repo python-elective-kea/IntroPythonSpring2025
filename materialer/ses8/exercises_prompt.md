@@ -17,9 +17,10 @@ When you are confident of my level generate a report. The report should contain 
 
 Lets start with the first question
 
+(PS Jeg vil gerne have det hele formuleret på dansk)
 ``` 
 
-Du kan evt. gøre øvelserne mere fokuseret ved ændre "python programming" i den første linie til eksempelvis "python Strings" eller "python listcomprehensions" etc. 
+Du kan evt. gøre øvelserne mere fokuseret ved ændre "python programming" i den første linie til eksempelvis "python Strings" eller "python list comprehensions" etc. 
 
 Gode emner at øve er:
 
@@ -27,6 +28,7 @@ Gode emner at øve er:
 * python boolean logic 
 * python lists & tuples
 * python functions
+* List Comprehensions
 * Python data structures
 * Python dictionaries
 * Python and json

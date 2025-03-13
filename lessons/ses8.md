@@ -7,9 +7,8 @@ I dag tager vi en "Back to basics" gang, hvor forkus bliver på Python kode og s
 * Kunne bruge Python lambda expressions
 * Kunne bruge ternary operators
 * Kunne arbejde med fuctions
-* Kunne arbejde med decorators
-* kunne arbejde med context managers
-* Have forståelse for python virtual environments
+* Kunne arbejde med boolean logik
+* Have forståelse for og kunne bruge python virtual environments gennem terminalen og i en notebook
 
 
 ## Forberedelse
@@ -17,10 +16,22 @@ Læs og lav følgende tutorial.
 
 * [List comprehensions 101](https://mathspp.com/blog/pydonts/list-comprehensions-101)
 
+Du skal desuden lave følgende øvelser inden vi mødes:
+
+* [python basic øvelser](../materialer/ses8/exercises_prompt.md)
+    * Du skal udskifte "python programming" i promptens første linie med henholdsvis:
+        * "python functions"
+        * "python boolean logic"
+        * "python list comprehension"
+        * "python lambda or ternary oprators"
+
+Brug gerne 2 timer på disse øvelser.
+
 ## Dagen i dag
 
-Vi starter dagen i dag med dette lille spil:
+Vi starter dagen i dag med dette lille spil: (kommer umiddelbart inden undervisningen)
 
+<!-- 
 Intro: Watson Test
 ------------------
 
@@ -37,7 +48,7 @@ If there is a vowel on one side, then there is an even number on the other side.
 You get 5 minutes to thinks this through, and then we make some statistics at the black board, about your solutions.
 Afterwards you have to create a script that takes 4 cards as input and checks in the shortest/fastests way if is 'valid' cards or not.
 
-
+--> 
 
 ## Materiale
 
@@ -46,7 +57,7 @@ Afterwards you have to create a script that takes 4 cards as input and checks in
 ### Øvelser
 
 #### 1. Watson test
-I denne fil [watson_data.py](../materialer/ses8/watson_data.py) ligger der en lang liste a kort, som hver især ville kunne køres i gennem en "Watson test". Systemet er som her:
+I denne fil [watson_data.py](../materialer/ses8/watson_data.py) ligger der en lang liste a kort, som hver især ville kunne køres i gennem en "Watson test". Systemet i listen er:
 
 ``` 
     [
@@ -72,12 +83,14 @@ Du skal finde ud af:
     * 1 kort
 3. Hvor mange set vil fejle testen
 
-Det vil nok være enten umuligt eller meget rodet at bruge listcomprehensions til denne øvelse, så almindelige loops er fint. 
+Det vil nok være enten umuligt eller meget rodet at bruge list comprehensions til denne øvelse, så almindelige loops er fint. 
+
+Du får en halv time til denne øvelse, og så gennemgår vi den ved tavlen inden vi går videre til næste emne.
 
 #### 1. Apache log file
-I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse på jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
+I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse af jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
 
-Derfor skal du med undersøge denne apache-log fil for om der har været:
+Undersøg denne [apache-log fil]() for om der har været:
 
 * mistænkelige login forsøg (`/login`) som man måske skulle gøre noget ved.
 *  
