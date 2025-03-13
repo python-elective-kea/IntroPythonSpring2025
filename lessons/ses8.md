@@ -91,7 +91,56 @@ Det vil nok være enten umuligt eller meget rodet at bruge list comprehensions t
 
 Du får en halv time til denne øvelse, og så gennemgår vi den ved tavlen inden vi går videre til næste emne.
 
-#### 1. Apache log file
+
+#### 2. funktioner
+Tænk over hver af følgende funktioner og bestem, hvad der er:
+
+* returværdi
+* returtype
+* parametertype
+* parameterværdi
+
+**example1**
+
+```
+   def add(num1, num2):
+        return num1 + num2
+```
+
+**example2**
+
+```
+   def add():
+        print('Hello')
+```
+
+**example3** 
+
+```
+   def add():
+        pass
+```
+
+**example4**
+
+```
+   def add(*args):
+        return sum(args)
+``` 
+
+**example5**
+
+```
+   def msg(x, y):
+        return x(y)
+        
+   # what does this one return, what are the parameters??
+   msg(len, 'Hello')
+```
+
+
+
+#### 3. Apache log file
 I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse af jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
 
 Undersøg denne [apache-log fil]() for om der har været:
@@ -102,3 +151,4 @@ Undersøg denne [apache-log fil]() for om der har været:
 Du skal når det giver mening bruge list comprehesions, lambda expression og i det hele taget 'one-liners'
 
 Logfilen finder du her [apache-log.txt]()
+
