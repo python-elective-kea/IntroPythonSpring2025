@@ -5,6 +5,7 @@ I dag tager vi en "Back to basics" gang, hvor forkus bliver på Python kode og s
 ## Læringsmål
 * Kunne bruge python list comprehensions
 * Kunne bruge Python lambda expressions
+* Kunne bruge ternary operators
 * Kunne arbejde med fuctions
 * Kunne arbejde med decorators
 * kunne arbejde med context managers
