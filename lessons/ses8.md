@@ -50,6 +50,10 @@ Afterwards you have to create a script that takes 4 cards as input and checks in
 
 --> 
 
+Herefter gennemgår vi nogle eksempler med list comprehensions. Blandt andet prøver vi at "flatening" den liste i lige har erbejdet med i øvelsen.
+
+
+
 ## Materiale
 
 
