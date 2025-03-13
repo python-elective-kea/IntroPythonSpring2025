@@ -50,13 +50,13 @@ Afterwards you have to create a script that takes 4 cards as input and checks in
 
 --> 
 
-Herefter gennemgår vi nogle eksempler med list comprehensions. Blandt andet prøver vi at "flatening" den liste i lige har erbejdet med i øvelsen.
+Herefter kigger vi på de helt basale dele af python functions, gennemgår nogle eksempler med list comprehensions. Blandt andet prøver vi at "flatening" den liste i lige har arbejdet med i øvelsen.
 
-
+Vi kigger også på **lambda** eksempler og brug af **ternary oprators**.
 
 ## Materiale
-
-
+* [List comprehensions 101](https://mathspp.com/blog/pydonts/list-comprehensions-101)
+* [python basic øvelser](../materialer/ses8/exercises_prompt.md)
 
 ### Øvelser
 
