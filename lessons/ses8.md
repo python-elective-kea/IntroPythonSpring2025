@@ -141,14 +141,50 @@ Tænk over hver af følgende funktioner og bestem, hvad der er:
 #### 3. Apache log file
 I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse af jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
 
-Undersøg denne [apache-log fil]() for om der har været:
+Undersøg denne [apache-log fil](../materialer/ses8/apache_log.txt) for om der har været:
 
-* mistænkelige "brute force" forsøg (`/login`, `/admin`, `/wp-login.php` etc.) som man måske skulle gøre noget ved.
-    * hvad kan du gøre for at forhindre dette forsøg i fremtiden?
-* Undersøg om der er ipadresser der ofte besøger din side.
-* 
 
-Du skal når det giver mening bruge list comprehesions, lambda expression og i det hele taget 'one-liners'
+#### **1. Mistænkelige IP-adresser**
+- Find de mest hyppigt forekommende IP-adresser i logfilen.
+- Identificér IP-adresser, der sender et stort antal forespørgsler inden for en kort tidsperiode (muligt DDoS-angreb).
+- Sammenlign IP-adresserne med kendte sorte lister (f.eks. abuse-databaser).
 
-Logfilen finder du her [apache-log.txt]()
+#### **2. brute-force angreb**
+- Analyser mislykkede login-forsøg til administrationspaneler (f.eks. `/wp-login.php`, `/admin`, `/login`).
+- Identificér IP-adresser, der gentagne gange forsøger at tilgå login-sider.
+
+#### **3. SQL-injektions**
+- Søg efter typiske SQL-injektionsmønstre i URL-anmodninger (f.eks. `SELECT`, `UNION`, `' OR 1=1 --`).
+- Identificér forespørgsler, der indeholder kodede SQL-payloads.
+
+#### **4. web shell-uploads**
+- Søg efter filuploads, der målretter sig mod `.php`, `.jsp` eller andre eksekverbare scripts.
+- Identificér usædvanlig adgang til mapper som `/uploads/` eller `/tmp/`.
+
+#### **5. XSS (Cross-Site Scripting) angreb**
+- Søg efter `<script>`, `javascript:`, `onerror=alert(1)`, og andre scriptbaserede payloads i forespørgsler.
+
+#### **6. Mistænkelige User-Agent headers**
+- Identificér forespørgsler med mistænkelige eller tomme User-Agent headers.
+- Find bots, der udgiver sig for at være legitime browsere.
+
+#### **7. Directory Traversal-angreb**
+- Søg efter forsøg på at tilgå følsomme filer via `../../../etc/passwd` eller `../admin/`.
+
+#### **8. HTTP-status koder**
+- Identificér en stor mængde 404-fejl (muligt forsøg på at finde skjulte filer).
+- Find hyppige 403-fejl (forsøg på uautoriseret adgang).
+- Spot mange 500-fejl (mulige sårbarheder i webapplikationen).
+
+#### **9. Forsøg på manipulation af logfiler**
+- Søg efter usædvanlige logposter, manglende tidsstempler eller ændrede data.
+
+#### **10. Undersøg usædvanlige trafikmønstre**
+- Identificér overdreven trafik til en enkelt side.
+- Undersøg, om der er trafikspidser, der sammenfalder med sikkerhedshændelser.
+
+
+Brug som udgangspunkt **list comprehesions**, **lambda expression** og i det hele taget 'one-liners'
+
+Logfilen finder du her [apache-log.txt](../materialer/ses8/apache_log.txt)
 
