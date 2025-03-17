@@ -31,7 +31,6 @@ Brug gerne 2 timer på disse øvelser.
 
 Vi starter dagen i dag med dette lille spil: (kommer umiddelbart inden undervisningen)
 
-<!-- 
 Intro: Watson Test
 ------------------
 
@@ -48,7 +47,6 @@ If there is a vowel on one side, then there is an even number on the other side.
 You get 5 minutes to thinks this through, and then we make some statistics at the black board, about your solutions.
 Afterwards you have to create a script that takes 4 cards as input and checks in the shortest/fastests way if is 'valid' cards or not.
 
---> 
 
 Herefter kigger vi på de helt basale dele af python functions, gennemgår nogle eksempler med list comprehensions. Blandt andet prøver vi at "flatening" den liste i lige har arbejdet med i øvelsen.
 
