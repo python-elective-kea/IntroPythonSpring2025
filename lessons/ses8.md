@@ -138,15 +138,15 @@ Tænk over hver af følgende funktioner og bestem, hvad der er:
    msg(len, 'Hello')
 ```
 
-
-
 #### 3. Apache log file
 I den virksomhed hvor du arbejder har der på det seneste været en mistanke om at jeres websites har været under angreb fra ikke venligtsindet hackere. Du er blevet bedt om at kigge log filer igennem for at se om du kan identificere noget mistænkeligt. Man kan godt installere applikationer der kan lave denne analyse af jeres logfiler, men i første omgang vil det nemmeste være at bruge python til at lave en indledende undersøgelse. 
 
 Undersøg denne [apache-log fil]() for om der har været:
 
-* mistænkelige login forsøg (`/login`) som man måske skulle gøre noget ved.
-*  
+* mistænkelige "brute force" forsøg (`/login`, `/admin`, `/wp-login.php` etc.) som man måske skulle gøre noget ved.
+    * hvad kan du gøre for at forhindre dette forsøg i fremtiden?
+* Undersøg om der er ipadresser der ofte besøger din side.
+* 
 
 Du skal når det giver mening bruge list comprehesions, lambda expression og i det hele taget 'one-liners'
 
