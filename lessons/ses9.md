@@ -1,7 +1,7 @@
 # Streamlit Frontend
 I dag skal vi arbejde med et frontend framework som ikke skrives i html eller javascript, men i python.    
 
-Vi vil først gennemgå de basale dele af documentetionen og herefter laver i et MVP af jeres eget projekt (evt. eksamenprojekt) 
+Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et MVP af jeres eget projekt (evt. eksamenprojekt) 
 
 ## Læringsmål
 * Kunne lave et MVP med Streamlit
