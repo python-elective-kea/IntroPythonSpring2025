@@ -12,7 +12,7 @@
 |    6    | 02/03/2025 | [Langchain Basics og Retrieval-Augmented Generation (RAG)](lessons/ses6.md)|
 |    7    | 09/03/2025 | [Prompt Engineering](lessons/ses7.md)           |
 |    8    | 16/03/2025 | [Back to basics - python one liners](lessons/ses8.md)|
-|    9    | 23/03/2025 | [Streamlit Frontend]()|
+|    9    | 23/03/2025 | [Streamlit Frontend](lessons/ses9.md)|
 |   10    | 30/03/2025 | [Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler](lessons/ses10.md) |
 |   11    | 06/04/2025 | [Dataanalyse med numpy, pandas og matplotlib](lessons/ses11.md) |
 |   | 14/04/2025 | Påskeferie |
