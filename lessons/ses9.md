@@ -19,3 +19,7 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 *  [Streamlit.io](https://streamlit.io/)
 
 ### Øvelser
+
+* Udvikel jeres egen app med brug af Stremalit (evt. Langchain, Numpy, Pandas).
+* Host jeres applikation online på https://share.streamlit.io/
+
