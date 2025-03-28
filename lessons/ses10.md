@@ -76,7 +76,7 @@ Du skal lave koden der generer disse plots. Kom så tæt på denne illustration 
 
 ### 2. Numpy, Matplotlib og linær regressions analyse
 Start med at downloade disse fire filer fra et meget berømt dataset (i hvert tilfælde inden for Data Science miljøet):
-* [Data 1](../assests/data1.tsv), [Data 2](../assests/data2.tsv), [Data 3](../assests/data3.tsv), og [Data 4](../assests/data4.tsv).    
+* [Data 1](../assets/data1.tsv), [Data 2](../assets/data2.tsv), [Data 3](../assets/data3.tsv), og [Data 4](../assets/data4.tsv).    
 Formatet er _.tsv_ og det står for _tab seperated values_. Hver fil har to kolonner (adskilt med tab-tegnet). Den første kolonne er x-værdier, og den anden kolonne er y-værdier.    
 
 Det er ok at højreklikke på filerne og derefter sige ja til at downloade dem, men det er sjovere at bruge python til det. Men du bestemmer.     
