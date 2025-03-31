@@ -42,13 +42,9 @@ OBS: Han starter  med at beskrive et modul der skal installeres (SciencePlots). 
 
 ## Dagen i dag
 
+Vi kigger på hvordan man kan lave et plot som dette:
 
-Vi starter med at opsumere hvad i har været igennem i forberedelsen. 
-
-* [NumPy Tutorial.ipynb](https://github.com/KeithGalli/NumPy/blob/master/NumPy%20Tutorial.ipynb)
-* [Matplotlib Tutorial.ipynb](https://github.com/KeithGalli/matplotlib_tutorial/blob/master/Matplotlib%20Tutorial.ipynb)
-
-I skal også lære at bruge [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) og [matplotlibs](https://matplotlib.org/stable/) dokumentation.
+![](../assets/big-O.png)
 
 * Kode fra undervisningen kan i finde [her](../materialer/ses10/)
 
