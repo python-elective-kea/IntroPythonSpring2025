@@ -66,9 +66,10 @@ Vi kigger på hvordan man kan lave et plot som dette:
 ### 1. Lav disse plots
 Du skal lave koden der generer disse plots. Kom så tæt på denne illustration som muligt. Når du er færdig kan du forsøge at forbedre plotenes udseende. 
 
+(Tip: [brug dokumentationen for matplotlib](https://matplotlib.org/stable/plot_types/index.html))
+
 ![](../assets/plot_opgave.png)
 
-(Tip: [brug dokumentationen for matplotlib](https://matplotlib.org/stable/plot_types/index.html))
 
 
 ### 2. Numpy, Matplotlib og linær regressions analyse
