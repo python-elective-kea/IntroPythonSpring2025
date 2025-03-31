@@ -42,13 +42,11 @@ OBS: Han starter  med at beskrive et modul der skal installeres (SciencePlots). 
 
 ## Dagen i dag
 
+Vi kigger på hvordan man kan lave et plot som dette:
 
-Vi starter med at opsumere hvad i har været igennem i forberedelsen. 
+![](../assets/big-O.png)
 
-* [NumPy Tutorial.ipynb](https://github.com/KeithGalli/NumPy/blob/master/NumPy%20Tutorial.ipynb)
-* [Matplotlib Tutorial.ipynb](https://github.com/KeithGalli/matplotlib_tutorial/blob/master/Matplotlib%20Tutorial.ipynb)
-
-I skal også lære at bruge [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) og [matplotlibs](https://matplotlib.org/stable/) dokumentation.
+* Kode fra undervisningen kan i finde [her](../materialer/ses10/)
 
 ## Materialeliste
 * [NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
@@ -74,7 +72,7 @@ Du skal lave koden der generer disse plots. Kom så tæt på denne illustration 
 
 ### 2. Numpy, Matplotlib og linær regressions analyse
 Start med at downloade disse fire filer fra et meget berømt dataset (i hvert tilfælde inden for Data Science miljøet):
-* [Data 1](../assests/data1.tsv), [Data 2](../assests/data2.tsv), [Data 3](../assests/data3.tsv), og [Data 4](../assests/data4.tsv).    
+* [Data 1](../assets/data1.tsv), [Data 2](../assets/data2.tsv), [Data 3](../assets/data3.tsv), og [Data 4](../assets/data4.tsv).    
 Formatet er _.tsv_ og det står for _tab seperated values_. Hver fil har to kolonner (adskilt med tab-tegnet). Den første kolonne er x-værdier, og den anden kolonne er y-værdier.    
 
 Det er ok at højreklikke på filerne og derefter sige ja til at downloade dem, men det er sjovere at bruge python til det. Men du bestemmer.     
