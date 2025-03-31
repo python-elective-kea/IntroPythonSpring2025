@@ -44,7 +44,7 @@ OBS: Han starter  med at beskrive et modul der skal installeres (SciencePlots). 
 
 Vi kigger på hvordan man kan lave et plot som dette:
 
-![](../assets/big-O.png)
+![](../assets/big-o.png)
 
 * Kode fra undervisningen kan i finde [her](../materialer/ses10/)
 
