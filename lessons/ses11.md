@@ -12,8 +12,6 @@ Denne tutotial er lang og du kan vælge at "skimme" dele af den igennem, men sø
 ## Dagen i dag
 
 
-
-
 ## Materiale
 * [Numpy dokumentation](https://numpy.org/doc/stable/user/absolute_beginners.html)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
