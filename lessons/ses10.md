@@ -64,9 +64,8 @@ Vi kigger på hvordan man kan lave et plot som dette:
 ### Øvelser
 ### 1. Billedmanipulation med numpy
 * Brug `plt.imread()` og `plt.imshow()` og derefter numpy operationer til at manimulere med et billede. 
-* Brug `from scipy.io import wavfile` og `wavfile.read('/Bongo_sound.wav')`
-
-
+* Brug `from scipy.io import wavfile`, `wavfile.read()` og `wavefile.write()` og numpy til at manipulere med lyden. 
+    Brug evt `https://github.com/python-elective-kea/IntroPythonSpring2025/raw/refs/heads/main/assets/Bongo_sound.wav`
 
 ### 2. Lav disse plots
 Du skal lave koden der generer disse plots. Kom så tæt på denne illustration som muligt. Når du er færdig kan du forsøge at forbedre plotenes udseende. 
