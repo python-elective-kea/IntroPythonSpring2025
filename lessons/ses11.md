@@ -1,4 +1,4 @@
-# Dataanalyse med numpy, pandas og matplotlib
+# Dataanalyse med pandas og (numpy) og matplotlib
 
 ## Læringsmål
 * Kunne bruge biblioteket Numpy
