@@ -68,6 +68,7 @@ Du skal lave koden der generer disse plots. Kom så tæt på denne illustration 
 
 ![](../assets/plot_opgave.png)
 
+(Tip: [brug dokumentationen for matplotlib](https://matplotlib.org/stable/plot_types/index.html))
 
 
 ### 2. Numpy, Matplotlib og linær regressions analyse
