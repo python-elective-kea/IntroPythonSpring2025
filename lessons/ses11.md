@@ -9,6 +9,7 @@
 Denne tutotial er lang og du kan vælge at "skimme" dele af den igennem, men sørg for som udgangspunkt at have en god forståelse for hvordan du bruger **Pandas**.
 
 * [Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)](https://www.youtube.com/watch?v=2uvysYbKdjM) (1:34:10)
+
 ## Dagen i dag
 
 
