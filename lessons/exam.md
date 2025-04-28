@@ -4,11 +4,12 @@
 Eksamen i dette valgfag er en mundtlig prøve baseret på et projekt.
 
 ## Projektbeskrivelse
-- Projektet skal demonstrere de færdigheder og den viden, du har opnået gennem kurset.
-- Du skal vælge et problem eller en opgave, som du vil løse ved hjælp af Python, og projektet skal enten demonstrere 
+- Projektet skal demonstrere nogle af de færdigheder og viden, du har opnået gennem kurset.
+- Du skal vælge et problem eller en opgave, som du vil løse ved hjælp af Python
+- Eksempler på et projekt kan være:
     * integration af LLM i egen applikation.
     * Dataanalyse af et selvalgt dataset.
-    * Sprogspecifikke elementer indenfor python. 
+    * Et spil, en webapplikation etc. 
 
 ## Tidsramme
 - De sidste 2 uger af dette semeter skal du bruge på dit projekt.
@@ -24,10 +25,10 @@ Du vil blive bedømt på:
 1. Forståelse og anvendelse af Python-koncepter
 2. Kodekvalitet og "Pythonic" tilgang
 3. Problemløsning og kreativitet
-4. Præsentationsevner og evnen til at forklare din kode
+4. Præsentationsevner og **evnen til at forklare din kode**
 
 ## Aflevering
-- Du skal aflevere en synopsis. 
+- Du skal aflevere en synopsis (ikke dit projekt). 
     - Dvs. en oversigt eller agenda for hvad du vil snakke om til din mundtlige eksamen. 
 
 ## Karaktergivning
