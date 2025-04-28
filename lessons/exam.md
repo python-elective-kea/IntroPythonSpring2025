@@ -27,7 +27,7 @@ Du vil blive bedømt på:
 3. Problemløsning og kreativitet
 4. Præsentationsevner og **evnen til at forklare din kode**
 
-* Helt overordnet vil du blive bedømt på i hvor høj grad du lever op til [læringsmålene](about_this_elective.md).
+* Helt overordnet vil du blive bedømt på i hvor høj grad du lever op til [læringsmålene](about_this_elective.md#læringsmål).
 
 ## Aflevering
 - Du skal aflevere en synopsis (ikke dit projekt). 
