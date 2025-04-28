@@ -37,9 +37,6 @@ Du vil efter dette valgfag er gennemført kunne:
 - Løse abstrakte problemstillinger vha. af python og en pythonisk programeringsstil. 
 - Analysere fejlbeskeder og finde løsninger på problemet.
 - Udvikle applikationer vha. code reviews.
-- Forstå og implementere Retrieval-Augmented Generation (RAG) teknikker.
-- Anvende og integrere Large Language Models (LLM) i python applikationer.
-- Anvende numpy og pandas til numeriske beregninger, dataanalyse og datamanipulation, samt visualisere data med matplotlib.
 
 ### Kompetencer
 Du vil efter dette valgfag er gennemført:
