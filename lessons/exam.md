@@ -30,6 +30,7 @@ Du vil blive bedømt på:
 ## Aflevering
 - Du skal aflevere en synopsis (ikke dit projekt). 
     - Dvs. en oversigt eller agenda for hvad du vil snakke om til din mundtlige eksamen. 
+    - Aflevering sker på wiseflow, og du får besked om hvordan fra eksamenskontoret.
 
 ## Karaktergivning
 Eksamen bedømmes efter 7-trinsskalaen.
